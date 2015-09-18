@@ -23,6 +23,10 @@ Nome | Status | :musical_note:
 ---- | ---- | ----
 [Front-end Five](https://frontendfive.codeschool.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/front-end-five/id1003995196?mt=2)
 [5 Minutes of Javascript](https://fivejs.codeschool.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/5-minutes-of-javascript/id775261328?mt=2)
+[Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/a-responsive-design-podcast/id910013523?mt=2)
+[Shoptalk](http://shoptalkshow.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/podcast/id493890455)
+
+
 
 ## Dê sua contribuição
 * Dê fork e mande seu PR para aumentar ainda mais essa lista! :rocket:
