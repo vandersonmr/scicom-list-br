@@ -1,5 +1,5 @@
 # :headphones: dev-podcast-list-brazil
-Lista de podcasts brasileiros focados em programação, tecnologia e ciências da computação.
+Lista de podcasts focados em programação, tecnologia e ciências da computação.
 ---
 
 ## pt-br
