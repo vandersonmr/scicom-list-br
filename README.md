@@ -26,4 +26,4 @@ Nome | Status | :musical_note:
 
 ## Dê sua contribuição
 * Dê fork e mande seu PR para aumentar ainda mais essa lista! :rocket:
-* O podcast saiu do ar? crie uma issue para nos avisar!
+* Algum podcast da lista saiu do ar ou parou de ser atualizado? crie uma issue para nos avisar!
