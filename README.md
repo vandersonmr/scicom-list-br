@@ -25,4 +25,5 @@ Nome | Status | :musical_note:
 [5 Minutes of Javascript](https://fivejs.codeschool.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/5-minutes-of-javascript/id775261328?mt=2)
 
 ## Dê sua contribuição
-Varmos forkar e aumentar ainda mais essa lista! :rocket:
+* Dê fork e mande seu PR para aumentar ainda mais essa lista! :rocket:
+* O podcast saiu do ar? crie uma issue para nos avisar!
