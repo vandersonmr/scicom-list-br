@@ -36,6 +36,7 @@ Nome | Status | :musical_note:
 [Shoptalk](http://shoptalkshow.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/podcast/id493890455)
 [The Changelog](https://changelog.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/podcast/the-changelog/id341623264)
 [The Web Ahead](http://5by5.tv/webahead)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=464936442)
+[The Meteor Podcast](http://www.meteorpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-meteor-podcast/id795089333?mt=2)
 [This Developer's Life](http://thisdeveloperslife.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/this-developers-life/id389727545)
 [Coding 101](https://twit.tv/shows/coding-101)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/coding-101-mp3/id804926728)
 [CodeNewbie](http://www.codenewbie.org/podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codenewbie/id919219256)
