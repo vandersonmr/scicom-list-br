@@ -41,6 +41,7 @@ Nome | Status | :musical_note:
 [Meteor Interviews](http://www.meteorinterviews.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/ca/podcast/meteor-interviews/id978442733)
 [NodeUp](http://nodeup.com/)|![active](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/nodeup/id447667314)
 [Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/a-responsive-design-podcast/id910013523?mt=2)
+[Ruby Rogues](https://devchat.tv/ruby-rogues/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/ruby-rogues/id705335155?mt=2)
 [Shoptalk](http://shoptalkshow.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/podcast/id493890455)
 [The Changelog](https://changelog.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/podcast/the-changelog/id341623264)
 [The Path to Performance](http://pathtoperf.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-path-to-performance/id983003732)
