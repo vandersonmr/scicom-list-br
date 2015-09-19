@@ -15,6 +15,7 @@ Nome | Status | :musical_note:
 [Grok Podcast](http://www.grokpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/grok-podcast/id393122038)
 [Hack 'n' Cast](http://hackncast.org/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?mt=2)
 [NodeBR Cast](https://github.com/nodebr/podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
+[ONCast](https://www.oficinadanet.com.br/oncast) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | [itunes](https://itunes.apple.com/us/podcast/oncast/id1030390532)
 [Opencast](http://tecnologiaaberta.com.br/category/opencast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/opencast/id424732898?mt=2)
 [PodSemFio](http://www.garotasemfio.com.br/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/podsemfio-podcast-feed/id177214142?mt=2)
 [SCICAST](http://www.scicast.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/scicast-podcast/id732167740?mt=2)
