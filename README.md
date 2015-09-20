@@ -1,6 +1,6 @@
 # :headphones: dev-podcast-list-brazil
 
-Lista de podcasts que todo desenvolvedor brasileiro deveria experimentar acompanhar.
+Lista dos podcasts que todo desenvolvedor brasileiro deveria experimentar acompanhar.
 
 ---
 
