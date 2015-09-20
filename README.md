@@ -1,5 +1,7 @@
 # :headphones: dev-podcast-list-brazil
-Lista de podcasts focados em programação, tecnologia e ciências da computação.
+
+Lista de podcasts que todo desenvolvedor brasileiro deveria experimentar acompanhar.
+
 ---
 
 ## pt-br
@@ -55,5 +57,3 @@ Nome | Status | :musical_note:
 ## Dê sua contribuição
 * Dê fork e mande seu PR para aumentar ainda mais essa lista! :rocket:
 * Algum podcast da lista saiu do ar ou parou de ser atualizado? crie uma issue para nos avisar!
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ogilvieira/dev-podcast-list-brazil/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
