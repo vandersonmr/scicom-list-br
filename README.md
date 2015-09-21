@@ -57,3 +57,5 @@ Nome | Status | :musical_note:
 ## Dê sua contribuição
 * Dê fork e mande seu PR para aumentar ainda mais essa lista! :rocket:
 * Algum podcast da lista saiu do ar ou parou de ser atualizado? crie uma issue para nos avisar!
+ 
+[![Analytics](https://ga-beacon.appspot.com/UA-67879079-1/ogilvieira/dev-podcast-list-brazil)](https://github.com/ogilvieira/dev-podcast-list-brazil)
