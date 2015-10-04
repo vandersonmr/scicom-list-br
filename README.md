@@ -7,6 +7,7 @@ Lista dos podcasts que todo desenvolvedor brasileiro deveria experimentar acompa
 ## pt-br
 Nome | Status | :musical_note:
 ---- | ---- | ----
+[Aspnetcast](https://www.youtube.com/channel/UC1DrB2LTgVBGiZdgaOrzMCg/featured)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [Castálio Podcast](http://castalio.info/) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/castalio-podcast/id446259197?mt=2)
 [CodeTalks](http://www.codetalks.net/)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codetalks/id939257121)
 [DatabaseCast](http://imasters.com.br/perfil/databasecast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/databasecast/id413491490?mt=2)
