@@ -23,6 +23,7 @@ Nome | Status | :musical_note:
 [ONCast](https://www.oficinadanet.com.br/oncast) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | [itunes](https://itunes.apple.com/us/podcast/oncast/id1030390532)
 [Opencast](http://tecnologiaaberta.com.br/category/opencast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/opencast/id424732898?mt=2)
 [Papo Bitcoin](http://papobitcoin.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
+[PODebug](http://www.podebug.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/podebug/id1044926057)
 [PodSemFio](http://www.garotasemfio.com.br/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/podsemfio-podcast-feed/id177214142?mt=2)
 [Revista Clichê](http://www.revistacliche.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/revista-cliche/id582903229)
 [SCICAST](http://www.scicast.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/scicast-podcast/id732167740?mt=2)
