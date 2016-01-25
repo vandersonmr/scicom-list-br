@@ -38,8 +38,8 @@ Nome | Status | :musical_note:
 Nome | Status | :musical_note:
 ---- | ---- | ----
 [5 Minutes of Javascript](https://fivejs.codeschool.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/5-minutes-of-javascript/id775261328?mt=2)
-[ Android Developers Backstage ](http://androidbackstage.blogspot.com.br/) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/android-developers-backstage/id785545036?mt=2)
 [Adventures in Angular](https://devchat.tv/adventures-in-angular)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/adventures-in-angular/id907361052)
+[ Android Developers Backstage ](http://androidbackstage.blogspot.com.br/) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/android-developers-backstage/id785545036?mt=2)
 [Build and Analyze](http://5by5.tv/buildanalyze)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=404064215)
 [Coding 101](https://twit.tv/shows/coding-101)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/coding-101-mp3/id804926728)
 [CodeNewbie](http://www.codenewbie.org/podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codenewbie/id919219256)
