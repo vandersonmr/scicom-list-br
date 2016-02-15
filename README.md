@@ -29,6 +29,7 @@ Nome | Status | :musical_note:
 [Revista Clichê](http://www.revistacliche.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/revista-cliche/id582903229)
 [SCICAST](http://www.scicast.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/scicast-podcast/id732167740?mt=2)
 [Tableless Drops](http://tableless.com.br/categoria/podcasts/drops-podcasts/) | ![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|:x:
+[Tecnocast](https://tecnoblog.net/categoria/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/tecnocast/id505204037?mt=2)
 [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/tecnologicamente-arretado/id873915897)
 [Tribo do C.I. Podcast](http://tribodoci.net/categoria/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [Void](http://voidpodcast.com/)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/void-podcast/id443186480)
