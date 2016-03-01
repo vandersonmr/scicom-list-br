@@ -28,6 +28,7 @@ Nome | Status | :musical_note:
 [PodSemFio](http://www.garotasemfio.com.br/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/podsemfio-podcast-feed/id177214142?mt=2)
 [Revista Clichê](http://www.revistacliche.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/revista-cliche/id582903229)
 [SCICAST](http://www.scicast.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/scicast-podcast/id732167740?mt=2)
+[Startapo](http://capivalley.com.br/category/startapo/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/startapo/id989061170?mt=2)
 [Tableless Drops](http://tableless.com.br/categoria/podcasts/drops-podcasts/) | ![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|:x:
 [Tecnocast](https://tecnoblog.net/categoria/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/tecnocast/id505204037?mt=2)
 [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/tecnologicamente-arretado/id873915897)
