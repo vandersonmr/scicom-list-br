@@ -18,7 +18,7 @@ Nome | Status | :musical_note:
 [DioCast](http://www.diolinux.com.br/search/label/DioCast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [FalaFreela](http://www.carreirasolo.org/falafreela/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](http://itunes.apple.com/br/podcast/fala-freela!/id289492825)
 [GDG Casts](http://gdgcasts.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/gdg-casts/id953473652?mt=2)
-[Grok Podcast](http://www.grokpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/grok-podcast/id393122038)
+[Grok Podcast](http://www.grokpodcast.com/)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/grok-podcast/id393122038)
 [Hack 'n' Cast](http://hackncast.org/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?mt=2)
 [NodeBR Cast](https://github.com/nodebr/podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [ONCast](https://www.oficinadanet.com.br/oncast) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | [itunes](https://itunes.apple.com/us/podcast/oncast/id1030390532)
@@ -34,7 +34,7 @@ Nome | Status | :musical_note:
 [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/tecnologicamente-arretado/id873915897)
 [Tribo do C.I. Podcast](http://tribodoci.net/categoria/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [Void](http://voidpodcast.com/)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/void-podcast/id443186480)
-[Zone of Front Enders (ZOFE)](http://zofe.com.br/) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | [itunes](https://itunes.apple.com/br/podcast/zone-of-front-enders-podcast/id580335548?mt=2)
+[Zone of Front Enders (ZOFE)](http://zofe.com.br/) | ![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square) | [itunes](https://itunes.apple.com/br/podcast/zone-of-front-enders-podcast/id580335548?mt=2)
 
 ## en
 Nome | Status | :musical_note:
