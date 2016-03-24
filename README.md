@@ -54,6 +54,7 @@ Nome | Status | :musical_note:
 [Hanselminutes](http://hanselminutes.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/hanselminutes/id117488860)
 [iOhYes](http://iohyespodcast.com)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/iohyes/id554926082#)
 [iPhreaks](https://devchat.tv/iphreaks)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-iphreaks-show/id634022060?mt=2)
+[JavaScript Air](http://javascriptair.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/javascript-air/id1066446588)
 [Javascript Jabber](https://devchat.tv/js-jabber)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/javascript-jabber/id496893300)
 [Meteor Club Podcast](https://podcast.meteorjs.club/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/meteor-club-podcast/id984131621?mt=2)
 [Meteor Interviews](http://www.meteorinterviews.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/ca/podcast/meteor-interviews/id978442733)
