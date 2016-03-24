@@ -17,6 +17,7 @@ Nome | Status | :musical_note:
 [DevNaEstrada](http://devnaestrada.com.br/ ) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) |[itunes](https://itunes.apple.com/br/podcast/devnaestrada-podcast-sobre/id997779431?mt=2)
 [DioCast](http://www.diolinux.com.br/search/label/DioCast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [FalaFreela](http://www.carreirasolo.org/falafreela/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](http://itunes.apple.com/br/podcast/fala-freela!/id289492825)
+[Foocast](http://foocast.io/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [GDG Casts](http://gdgcasts.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/gdg-casts/id953473652?mt=2)
 [Grok Podcast](http://www.grokpodcast.com/)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/grok-podcast/id393122038)
 [Hack 'n' Cast](http://hackncast.org/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?mt=2)
