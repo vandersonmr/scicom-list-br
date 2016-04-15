@@ -35,6 +35,7 @@ Nome | Status | :musical_note:
 [Tecnocast](https://tecnoblog.net/categoria/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/tecnocast/id505204037?mt=2)
 [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/tecnologicamente-arretado/id873915897)
 [Tribo do C.I. Podcast](http://tribodoci.net/categoria/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
+[UltraGeek](http://www.redegeek.com.br/ultrageek/)|![Active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/rede-geek-ultrageek/id775753572?mt=2)
 [Void](http://voidpodcast.com/)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/void-podcast/id443186480)
 [Zone of Front Enders (ZOFE)](http://zofe.com.br/) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | [itunes](https://itunes.apple.com/br/podcast/zone-of-front-enders-podcast/id580335548?mt=2)
 
