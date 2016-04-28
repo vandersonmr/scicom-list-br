@@ -49,6 +49,7 @@ Nome | Status | :musical_note:
 [Front-end Five](https://frontendfive.codeschool.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/front-end-five/id1003995196?mt=2)
 [Giant Robots](giantrobots.fm/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/giant-robots-smashing-into/id535121941)
 [Hanselminutes](http://hanselminutes.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/hanselminutes/id117488860)
+[Happy Hour Podcast - 9to5Mac](http://9to5mac.com/category/happy-hour/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/happy-hour/id641836403?mt=2)
 [iOhYes](http://iohyespodcast.com)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/iohyes/id554926082#)
 [iPhreaks](https://devchat.tv/iphreaks)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-iphreaks-show/id634022060?mt=2)
 [Javascript Jabber](https://devchat.tv/js-jabber)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/javascript-jabber/id496893300)
