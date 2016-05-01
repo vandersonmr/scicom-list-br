@@ -22,6 +22,7 @@ Nome | Status | :musical_note:
 [GDG Casts](http://gdgcasts.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/gdg-casts/id953473652?mt=2)
 [Grok Podcast](http://www.grokpodcast.com/)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/grok-podcast/id393122038)
 [Hack 'n' Cast](http://hackncast.org/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?mt=2)
+[Loop Matinal](http://loopmatinal.libsyn.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/loop-matinal/id1053245743?mt=2)
 [NodeBR Cast](https://github.com/nodebr/podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [ONCast](https://www.oficinadanet.com.br/oncast) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | [itunes](https://itunes.apple.com/us/podcast/oncast/id1030390532)
 [Opencast](http://tecnologiaaberta.com.br/category/opencast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/opencast/id424732898?mt=2)
@@ -46,6 +47,7 @@ Nome | Status | :musical_note:
 [5 Minutes of Javascript](https://fivejs.codeschool.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/5-minutes-of-javascript/id775261328?mt=2)
 [Adventures in Angular](https://devchat.tv/adventures-in-angular)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/adventures-in-angular/id907361052)
 [ Android Developers Backstage ](http://androidbackstage.blogspot.com.br/) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/android-developers-backstage/id785545036?mt=2)
+[ Android Intelligence ](https://plus.google.com/collection/ATg6b) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/android-intelligence/id1105166538)
 [Build and Analyze](http://5by5.tv/buildanalyze)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=404064215)
 [Coding 101](https://twit.tv/shows/coding-101)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/coding-101-mp3/id804926728)
 [CodeNewbie](http://www.codenewbie.org/podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codenewbie/id919219256)
@@ -81,6 +83,7 @@ Nome | Status | :musical_note:
 [This Developer's Life](http://thisdeveloperslife.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/this-developers-life/id389727545)
 [ TTL Podcast ](http://ttlpodcast.com/) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/ttl-podcast/id989679484)
 [ Under The Radar ](https://www.relay.fm/radar) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/gb/podcast/under-the-radar/id1055685246?mt=2)
+[ XDA Developers ](http://www.xda-developers.com/) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/xda-developerss-podcast/id1047717077?mt=2)
 
 ## Dê sua contribuição
 * Dê fork e mande seu PR para aumentar ainda mais essa lista! :rocket:
