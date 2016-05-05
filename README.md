@@ -53,6 +53,7 @@ Nome | Status | :musical_note:
 [CodeNewbie](http://www.codenewbie.org/podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codenewbie/id919219256)
 [CodePen Radio](https://blog.codepen.io/radio/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codepen-radio/id824437159)
 [Developer Tea](https://developertea.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/developer-tea/id955596067)
+[EntreProgrammers](http://entreprogrammers.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/entreprogrammers-podcast/id875119779)
 [ Fragmented ](http://fragmentedpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/fragmented/id968779958)
 [Front-end Five](https://frontendfive.codeschool.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/front-end-five/id1003995196?mt=2)
 [Giant Robots](giantrobots.fm/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/giant-robots-smashing-into/id535121941)
@@ -72,6 +73,7 @@ Nome | Status | :musical_note:
 [The Ruby on Rails Podcast](http://5by5.tv/rubyonrails)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/ruby-on-rails-podcast/id840890158?mt=2)
 [Shoptalk](http://shoptalkshow.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/podcast/id493890455)
 [Software Engineering Daily](http://softwareengineeringdaily.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/software-engineering-daily/id1019576853?mt=2)
+[StartUp Podcast](https://gimletmedia.com/show/startup/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/startup-podcast/id913805339)
 [Talk Python To Me](https://talkpython.fm/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/talk-python-to-me-python-conversations/id979020229)
 [The Changelog](https://changelog.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/podcast/the-changelog/id341623264)
 [The Cloudcast](http://www.thecloudcast.net/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
