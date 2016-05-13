@@ -56,6 +56,7 @@ Nome | Status | :musical_note:
 [EntreProgrammers](http://entreprogrammers.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/entreprogrammers-podcast/id875119779)
 [ Fragmented ](http://fragmentedpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/fragmented/id968779958)
 [Front-end Five](https://frontendfive.codeschool.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/front-end-five/id1003995196?mt=2)
+[Front-end Happy Hour](http://frontendhappyhour.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/front-end-happy-hour/id1089047924?mt=2)
 [Giant Robots](giantrobots.fm/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/giant-robots-smashing-into/id535121941)
 [Hanselminutes](http://hanselminutes.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/hanselminutes/id117488860)
 [Happy Hour Podcast - 9to5Mac](http://9to5mac.com/category/happy-hour/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/happy-hour/id641836403?mt=2)
@@ -66,6 +67,7 @@ Nome | Status | :musical_note:
 [Meteor Club Podcast](https://podcast.meteorjs.club/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/meteor-club-podcast/id984131621?mt=2)
 [Meteor Interviews](http://www.meteorinterviews.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/ca/podcast/meteor-interviews/id978442733)
 [More Than Just Code Podcast](http://mtjc.fm)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/more-than-just-code-podcast/id906987516?mt=2)
+[Motion and Meaning](http://motionandmeaning.io/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/motion-and-meaning-podcast/id1010491067?mt=2)
 [NodeUp](http://nodeup.com/)|![active](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/nodeup/id447667314)
 [Ray Wenderlich Podcast](http://www.raywenderlich.com/rwpodcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/raywenderlich.com-podcast/id773910890?mt=2)
 [Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/a-responsive-design-podcast/id910013523?mt=2)
@@ -74,6 +76,7 @@ Nome | Status | :musical_note:
 [Shoptalk](http://shoptalkshow.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/podcast/id493890455)
 [Software Engineering Daily](http://softwareengineeringdaily.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/software-engineering-daily/id1019576853?mt=2)
 [StartUp Podcast](https://gimletmedia.com/show/startup/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/startup-podcast/id913805339)
+[SVG Immersion](http://svgimmersion.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/svg-immersion-anything-everything/id975438780?ls=1)
 [Talk Python To Me](https://talkpython.fm/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/talk-python-to-me-python-conversations/id979020229)
 [The Changelog](https://changelog.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/podcast/the-changelog/id341623264)
 [The Cloudcast](http://www.thecloudcast.net/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
