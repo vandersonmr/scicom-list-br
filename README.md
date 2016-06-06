@@ -71,7 +71,6 @@ Nome | Status | :musical_note:
 [Hanselminutes](http://hanselminutes.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/hanselminutes/id117488860)
 [Happy Hour Podcast - 9to5Mac](http://9to5mac.com/category/happy-hour/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/happy-hour/id641836403?mt=2)
 [Healthy Hacker](http://www.healthyhacker.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/healthy-hacker/id904717019)
-[InfoQ Podcast](https://www.infoq.com/podcasts)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/the-infoq-podcast/id1106971805?l=en&mt=2)
 [iOhYes](http://iohyespodcast.com)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/iohyes/id554926082#)
 [iPhreaks](https://devchat.tv/iphreaks)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-iphreaks-show/id634022060?mt=2)
 [JavaScript Air](http://javascriptair.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/javascript-air/id1066446588)
@@ -96,6 +95,7 @@ Nome | Status | :musical_note:
 [Test Talks](http://joecolantonio.com/testtalks/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/testtalks-automation-awesomeness/id826722706?mt=2&ign-mpt=uo%3D4)
 [The Changelog](https://changelog.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/podcast/the-changelog/id341623264)
 [The Cloudcast](http://www.thecloudcast.net/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
+[The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/the-infoq-podcast/id1106971805?l=en&mt=2)
 [The Laravel Podcast](http://www.laravelpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-laravel-podcast/id653204183)
 [The Path to Performance](http://pathtoperf.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-path-to-performance/id983003732)
 [The Ruby on Rails Podcast](http://5by5.tv/rubyonrails)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/ruby-on-rails-podcast/id840890158?mt=2)
