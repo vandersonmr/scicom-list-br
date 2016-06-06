@@ -9,7 +9,7 @@ Nome | Status | :musical_note:
 ---- | ---- | ----
 [Aspnetcast](https://www.youtube.com/channel/UC1DrB2LTgVBGiZdgaOrzMCg/featured)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [Castálio Podcast](http://castalio.info/) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/castalio-podcast/id446259197?mt=2)
-[CapyCast](https://soundcloud.com/shipit-rd/sets/capycast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/capycast/id1093562535)
+[CapyCast](https://soundcloud.com/rdshipit/sets/capycast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/capycast/id1093562535)
 [Carcast Programming](https://soundcloud.com/carcastprogramming)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/carcast-programming/id967624975?mt=2)
 [Coca Tech](https://cocatech.com.br/) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | [itunes](https://itunes.apple.com/br/podcast/cocatech/id437224054?mt=2)
 [CocoaHeadsBR](http://cocoaheads.com.br/podcasts)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/cocoaheads-brasil/id1044808957?mt=2)
@@ -34,6 +34,7 @@ Nome | Status | :musical_note:
 [PodSemFio](http://www.garotasemfio.com.br/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/podsemfio-podcast-feed/id177214142?mt=2)
 [Revista Clichê](http://www.revistacliche.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/revista-cliche/id582903229)
 [SCICAST](http://www.scicast.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/scicast-podcast/id732167740?mt=2)
+[SecurityCast](https://www.youtube.com/user/securitycast/featured)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [SegInfocast](https://seginfo.com.br/category/podcast-seguranca-tecnologia-da-informacao-seginfocast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/seginfocast-seu-podcast-na/id649835205?mt=2)
 [Startapo](http://capivalley.com.br/category/startapo/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/startapo/id989061170?mt=2)
 [Tableless Drops](http://tableless.com.br/categoria/podcasts/drops-podcasts/) | ![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|:x:
@@ -55,8 +56,10 @@ Nome | Status | :musical_note:
 [Coding 101](https://twit.tv/shows/coding-101)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/coding-101-mp3/id804926728)
 [CodeNewbie](http://www.codenewbie.org/podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codenewbie/id919219256)
 [CodePen Radio](https://blog.codepen.io/radio/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codepen-radio/id824437159)
+[Coding Blocks](http://www.codingblocks.net/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/coding-blocks-software-web/id769189585)
 [Data Skeptic](http://dataskeptic.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-data-skeptic-podcast/id890348705)
 [Developer Tea](https://developertea.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/developer-tea/id955596067)
+[DotNetRocks](https://www.dotnetrocks.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/.net-rocks!/id130068596?mt=2)
 [EntreProgrammers](http://entreprogrammers.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/entreprogrammers-podcast/id875119779)
 [ Fragmented ](http://fragmentedpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/fragmented/id968779958)
 [Front-end Five](https://frontendfive.codeschool.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/front-end-five/id1003995196?mt=2)
@@ -75,6 +78,7 @@ Nome | Status | :musical_note:
 [More Than Just Code Podcast](http://mtjc.fm)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/more-than-just-code-podcast/id906987516?mt=2)
 [Motion and Meaning](http://motionandmeaning.io/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/motion-and-meaning-podcast/id1010491067?mt=2)
 [NodeUp](http://nodeup.com/)|![active](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/nodeup/id447667314)
+[On.NET](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw/featured)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [Ray Wenderlich Podcast](http://www.raywenderlich.com/rwpodcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/raywenderlich.com-podcast/id773910890?mt=2)
 [Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/a-responsive-design-podcast/id910013523?mt=2)
 [Ruby Rogues](https://devchat.tv/ruby-rogues/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/ruby-rogues/id705335155?mt=2)
@@ -86,6 +90,7 @@ Nome | Status | :musical_note:
 [SVG Immersion](http://svgimmersion.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/svg-immersion-anything-everything/id975438780?ls=1)
 [Talk Python To Me](https://talkpython.fm/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/talk-python-to-me-python-conversations/id979020229)
 [Talking Machines](http://www.thetalkingmachines.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/itunes-u/talking-machines/id983997393?mt=10)
+[Test Talks](http://joecolantonio.com/testtalks/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/testtalks-automation-awesomeness/id826722706?mt=2&ign-mpt=uo%3D4)
 [The Changelog](https://changelog.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/podcast/the-changelog/id341623264)
 [The Cloudcast](http://www.thecloudcast.net/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [The Laravel Podcast](http://www.laravelpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-laravel-podcast/id653204183)
@@ -96,6 +101,7 @@ Nome | Status | :musical_note:
 [This Developer's Life](http://thisdeveloperslife.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/this-developers-life/id389727545)
 [ TTL Podcast ](http://ttlpodcast.com/) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/ttl-podcast/id989679484)
 [ Under The Radar ](https://www.relay.fm/radar) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/gb/podcast/under-the-radar/id1055685246?mt=2)
+[Voices of the ElePHPant](https://voicesoftheelephpant.com)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/voices-of-the-elephpant/id420153197?mt=2)
 [ XDA Developers ](http://www.xda-developers.com/) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/xda-developerss-podcast/id1047717077?mt=2)
 
 ## Dê sua contribuição
