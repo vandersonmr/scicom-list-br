@@ -17,6 +17,7 @@ Nome | Status | :musical_note:
 [Curto Circuito Podcast](http://curtocircuito.cc/)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/curto-circuito-podcast/id712723389)
 [DatabaseCast](http://imasters.com.br/perfil/databasecast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/databasecast/id413491490?mt=2)
 [DevNaEstrada](http://devnaestrada.com.br/ ) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) |[itunes](https://itunes.apple.com/br/podcast/devnaestrada-podcast-sobre/id997779431?mt=2)
+[Dev & Community Cast](http://devcommunitycast.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/dev-community-cast/id1101607027?l=en&mt=2)
 [DioCast](http://www.diolinux.com.br/search/label/DioCast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [FalaFreela](http://www.carreirasolo.org/falafreela/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](http://itunes.apple.com/br/podcast/fala-freela!/id289492825)
 [Foocast](http://foocast.io/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
@@ -66,9 +67,11 @@ Nome | Status | :musical_note:
 [Front-end Five](https://frontendfive.codeschool.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/front-end-five/id1003995196?mt=2)
 [Front-end Happy Hour](http://frontendhappyhour.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/front-end-happy-hour/id1089047924?mt=2)
 [Giant Robots](giantrobots.fm/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/giant-robots-smashing-into/id535121941)
+[Git Tips](https://yarn.fm/podcasts/283534-git-tips)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/git-tips/id1082913833?l=en&mt=2)
 [Hanselminutes](http://hanselminutes.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/hanselminutes/id117488860)
 [Happy Hour Podcast - 9to5Mac](http://9to5mac.com/category/happy-hour/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/happy-hour/id641836403?mt=2)
 [Healthy Hacker](http://www.healthyhacker.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/healthy-hacker/id904717019)
+[InfoQ Podcast](https://www.infoq.com/podcasts)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/the-infoq-podcast/id1106971805?l=en&mt=2)
 [iOhYes](http://iohyespodcast.com)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/iohyes/id554926082#)
 [iPhreaks](https://devchat.tv/iphreaks)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-iphreaks-show/id634022060?mt=2)
 [JavaScript Air](http://javascriptair.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/javascript-air/id1066446588)
@@ -83,7 +86,6 @@ Nome | Status | :musical_note:
 [Ray Wenderlich Podcast](http://www.raywenderlich.com/rwpodcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/raywenderlich.com-podcast/id773910890?mt=2)
 [Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/a-responsive-design-podcast/id910013523?mt=2)
 [Ruby Rogues](https://devchat.tv/ruby-rogues/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/ruby-rogues/id705335155?mt=2)
-[The Ruby on Rails Podcast](http://5by5.tv/rubyonrails)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/ruby-on-rails-podcast/id840890158?mt=2)
 [Shoptalk](http://shoptalkshow.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/podcast/id493890455)
 [Slack Variety Pack](https://slack.com/varietypack)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://geo.itunes.apple.com/us/podcast/slack-variety-pack/id993062631?mt=2&at=1010lbVy&ct=slackvarietypack_landingpage)
 [Software Engineering Daily](http://softwareengineeringdaily.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/software-engineering-daily/id1019576853?mt=2)
@@ -96,6 +98,7 @@ Nome | Status | :musical_note:
 [The Cloudcast](http://www.thecloudcast.net/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [The Laravel Podcast](http://www.laravelpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-laravel-podcast/id653204183)
 [The Path to Performance](http://pathtoperf.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-path-to-performance/id983003732)
+[The Ruby on Rails Podcast](http://5by5.tv/rubyonrails)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/ruby-on-rails-podcast/id840890158?mt=2)
 [The Talk Show With John Gruber](http://daringfireball.net/thetalkshow)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-talk-show-with-john-gruber/id528458508)
 [The Web Ahead](http://5by5.tv/webahead)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=464936442)
 [The Meteor Podcast](http://www.meteorpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-meteor-podcast/id795089333?mt=2)
