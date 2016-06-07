@@ -15,7 +15,7 @@
 </div>
 
 <section class="container">
-  <div class="col-sm-4 col-md-4" ng-repeat="item in podcasts | orderBy:'name' | filter:{ name: (terms|normalizeWord) }">
+  <div class="col-sm-4 col-md-4" ng-repeat="item in podcasts | orderBy:'name' | filter:{ name: (terms|cleanText) }">
     <div class="thumbnail">
       <img src="http://www.dummyimage.com/400x200/444/ccc.jpg" alt="">
       <div class="caption">
