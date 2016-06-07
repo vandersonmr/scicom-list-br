@@ -1,12 +1,7 @@
-app.controller("GetController", ['$scope', 'podcasts', 'feed', function($scope, podcasts, feed){
-  $scope.podcasts = {};
-
-  podcasts.list(function(res){
-    $scope.podcasts = res;
+app.controller("GetController", ['$scope', 'podcasts', 'feed', '$routeParams', function($scope, podcasts, feed, $routeParams){
+  $scope.podcasts = false;
+  podcasts.get($routeParams.podcastSlug, function(res){
+    $scope.podcast = res;
+    console.log(res.name);
   });
-
-  feed.list(function(res){
-    console.log(res);
-  });
-
 }]);

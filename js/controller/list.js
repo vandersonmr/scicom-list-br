@@ -1,12 +1,8 @@
 app.controller("ListController", ['$scope', 'podcasts', 'feed', function($scope, podcasts, feed){
   $scope.podcasts = {};
+  $scope.loader = true;
 
   podcasts.list(function(res){
-    $scope.podcasts = res;
+    $scope.podcasts = res.data;
   });
-
-  feed.list(function(res){
-    console.log(res);
-  });
-
 }]);

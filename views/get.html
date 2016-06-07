@@ -1,9 +1,39 @@
 <div class="container">
 	<div class="col-12">
-		<h1>Nome do podcast</h1>
-	</div>
+    <header class="page-header">
+  		<h1>{{podcast.name}}</h1>
+      <span ng-if="podcast.status" class="label label-sm label-success">Em Atividade</span>
+      <span ng-if="!podcast.status" class="label label-sm label-danger">Sem novas atualizações</span>
+    </header>
+    <nav>
+      <ul>
+        <li ng-if="podcast.itunes_link"><a href="{{podcast.itunes_link}}">Itunes</a></li>
+        <li ng-if="podcast.website_link"><a href="{{podcast.website_link}}">Site</a></li>
+        <li ng-if="podcast.youtube_link"><a href="{{podcast.youtube_link}}">YouTube</a></li>
+        <li ng-if="podcast.soundclound_link"><a href="{{podcast.soundclound_link}}">SoundCloud</a></li>
+      </ul>
+    </nav>
+  </div>
 </div>
-
 <section class="container">
-
+  <div class="col-12">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        Descrição
+      </div>
+      <div class="panel-body">
+        {{podcast.description}}
+      </div>
+    </div>
+  </div>
+  <div ng-if="{{podcast.rss_link}}" class="col-12">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        Últimos episódios no feed
+      </div>
+      <div class="panel-body">
+        {{podcast.rss_link}}
+      </div>
+    </div>
+  </div>
 </section>
