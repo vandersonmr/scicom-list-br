@@ -3,11 +3,11 @@
     "name" : "Aspnetcast",
     "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis modi, expedita rerum ratione adipisci ex similique quidem dignissimos fuga. Aperiam animi, veniam, sit consectetur voluptatibus deserunt facere totam sequi temporibus, dolor possimus quae odit maxime? Tenetur quasi, repudiandae sequi perspiciatis exercitationem corporis voluptatem nisi possimus optio explicabo beatae rem impedit accusantium expedita aliquam, ipsum, placeat quam facilis amet aspernatur inventore nobis soluta, itaque sapiente aut? Vel repellendus repellat beatae. Velit aspernatur maxime mollitia corrupti, ipsum hic dignissimos magni itaque atque ducimus, vitae quam numquam temporibus enim, quae nisi qui ad corporis tenetur? Voluptatibus quae distinctio magni id delectus, nisi, eius.",
     "status" : true,
-    "itunes_link" : false,
-    "website_link" : false,
-    "youtube_link" : false,
-    "rss_link" : false,
-    "soundclound_link" : false,
+    "itunes_link" : "#",
+    "website_link" : "#",
+    "youtube_link" : "#",
+    "rss_link" : "http://www.aspnetcast.com.br/index.php/feed/",
+    "soundclound_link" : "#",
     "language" : "pt_br"
   },
   {

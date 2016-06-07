@@ -6,17 +6,18 @@
       <span ng-if="!podcast.status" class="label label-sm label-danger">Sem novas atualizações</span>
     </header>
     <nav>
-      <ul>
-        <li ng-if="podcast.itunes_link"><a href="{{podcast.itunes_link}}">Itunes</a></li>
-        <li ng-if="podcast.website_link"><a href="{{podcast.website_link}}">Site</a></li>
-        <li ng-if="podcast.youtube_link"><a href="{{podcast.youtube_link}}">YouTube</a></li>
-        <li ng-if="podcast.soundclound_link"><a href="{{podcast.soundclound_link}}">SoundCloud</a></li>
+      <ul class="nav nav-pills">
+        <li ng-if="podcast.itunes_link"><a target="_blank" href="{{podcast.itunes_link}}">Itunes</a></li>
+        <li ng-if="podcast.website_link"><a target="_blank" href="{{podcast.website_link}}">Site</a></li>
+        <li ng-if="podcast.youtube_link"><a target="_blank" href="{{podcast.youtube_link}}">YouTube</a></li>
+        <li ng-if="podcast.soundclound_link"><a target="_blank" href="{{podcast.soundclound_link}}">SoundCloud</a></li>
       </ul>
     </nav>
   </div>
 </div>
 <section class="container">
   <div class="col-12">
+    <hr>
     <div class="panel panel-default">
       <div class="panel-heading">
         Descrição
@@ -26,7 +27,7 @@
       </div>
     </div>
   </div>
-  <div ng-if="{{podcast.rss_link}}" class="col-12">
+  <div ng-if="podcast.rss_link" class="col-12">
     <div class="panel panel-default">
       <div class="panel-heading">
         Últimos episódios no feed
