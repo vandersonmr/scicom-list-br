@@ -31,6 +31,7 @@ Nome | Status | :musical_note:
 [MonkeyNights](https://www.youtube.com/channel/UCFaQBRaoHrAxcGoeY8E5jvQ/featured)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [ONCast](https://www.oficinadanet.com.br/oncast) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | [itunes](https://itunes.apple.com/us/podcast/oncast/id1030390532)
 [Opencast](http://tecnologiaaberta.com.br/category/opencast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/opencast/id424732898?mt=2)
+[OpenDevPodcast](http://www.opendevpodcast.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/opendevpodcast/id1071546873?l=en&mt=2)
 [Papo Bitcoin](http://papobitcoin.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [PODebug](http://www.podebug.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/podebug/id1044926057)
 [PodSemFio](http://www.garotasemfio.com.br/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/podsemfio-podcast-feed/id177214142?mt=2)
