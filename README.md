@@ -59,6 +59,7 @@ Nome | Status | :musical_note:
 [ Android Intelligence ](https://plus.google.com/collection/ATg6b) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/android-intelligence/id1105166538)
 [Build and Analyze](http://5by5.tv/buildanalyze)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=404064215)
 [Coding 101](https://twit.tv/shows/coding-101)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/coding-101-mp3/id804926728)
+[Code and Supply](http://www.codeandsupply.co/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [CodeNewbie](http://www.codenewbie.org/podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codenewbie/id919219256)
 [CodePen Radio](https://blog.codepen.io/radio/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codepen-radio/id824437159)
 [Coding Blocks](http://www.codingblocks.net/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/coding-blocks-software-web/id769189585)
