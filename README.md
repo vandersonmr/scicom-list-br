@@ -65,6 +65,7 @@ Nome | Status | :musical_note:
 [CodePen Radio](https://blog.codepen.io/radio/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codepen-radio/id824437159)
 [Coding Blocks](http://www.codingblocks.net/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/coding-blocks-software-web/id769189585)
 [Data Skeptic](http://dataskeptic.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-data-skeptic-podcast/id890348705)
+[Dev Discussions](http://www.devdiscussions.com)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/dev-discussions/id954824483)
 [Developer Tea](https://developertea.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/developer-tea/id955596067)
 [DotNetRocks](https://www.dotnetrocks.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/.net-rocks!/id130068596?mt=2)
 [EntreProgrammers](http://entreprogrammers.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/entreprogrammers-podcast/id875119779)
