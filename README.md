@@ -13,8 +13,10 @@ Nome | Status | :musical_note:
 [Carcast Programming](https://soundcloud.com/carcastprogramming)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/carcast-programming/id967624975?mt=2)
 [Coca Tech](https://cocatech.com.br/) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | [itunes](https://itunes.apple.com/br/podcast/cocatech/id437224054?mt=2)
 [CocoaHeadsBR](http://cocoaheads.com.br/podcasts)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/cocoaheads-brasil/id1044808957?mt=2)
+[CodeCasts](https://codecasts.com.br/podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [CodeTalks](http://www.codetalks.net/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codetalks/id939257121)
 [DatabaseCast](http://imasters.com.br/perfil/databasecast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/databasecast/id413491490?mt=2)
+[Dev & Community](http://devcommunitycast.com.br/) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) |[itunes](https://itunes.apple.com/us/podcast/dev-community-cast/id1101607027?mt=2)
 [DevNaEstrada](http://devnaestrada.com.br/ ) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) |[itunes](https://itunes.apple.com/br/podcast/devnaestrada-podcast-sobre/id997779431?mt=2)
 [DioCast](http://www.diolinux.com.br/search/label/DioCast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [FalaFreela](http://www.carreirasolo.org/falafreela/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](http://itunes.apple.com/br/podcast/fala-freela!/id289492825)
@@ -22,6 +24,7 @@ Nome | Status | :musical_note:
 [GDG Casts](http://gdgcasts.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/gdg-casts/id953473652?mt=2)
 [Grok Podcast](http://www.grokpodcast.com/)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/grok-podcast/id393122038)
 [Hack 'n' Cast](http://hackncast.org/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?mt=2)
+[Lambda3](http://blog.lambda3.com.br/category/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/lambda3-podcast/id1115313672?mt=2)
 [Loop Matinal](http://loopmatinal.libsyn.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/loop-matinal/id1053245743?mt=2)
 [NodeBR Cast](https://github.com/nodebr/podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [ONCast](https://www.oficinadanet.com.br/oncast) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | [itunes](https://itunes.apple.com/us/podcast/oncast/id1030390532)
