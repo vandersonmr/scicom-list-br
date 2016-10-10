@@ -1,4 +1,4 @@
-# :headphones: dev-podcast-list-brazil
+# :headphones: awesome-podcasts-br
 
 Lista dos podcasts que todo desenvolvedor brasileiro deveria experimentar acompanhar.
 
