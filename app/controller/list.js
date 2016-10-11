@@ -1,7 +1,6 @@
 app.controller("ListController", ['$scope', 'podcasts', 'feed', 'ngMeta', function($scope, podcasts, feed, ngMeta){
 
   ngMeta.setTitle('Lista de Podcasts');
-  ngMeta.setTag('description', 'Encontre podcasts focados em programação, tecnologia, ciências da computação e entretenimento geek.');
 
   $scope.podcasts = {};
   $scope.loader = true;
