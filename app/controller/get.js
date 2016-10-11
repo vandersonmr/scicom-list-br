@@ -1,4 +1,6 @@
-app.controller("GetController", ['$scope', 'podcasts', 'feed', '$routeParams', function($scope, podcasts, feed, $routeParams){
+app.controller("GetController", ['$scope', 'podcasts', 'feed', '$routeParams', 'ngMeta',
+  function($scope, podcasts, feed, $routeParams, ngMeta){
+
   $scope.podcasts = false;
   $scope.feedlist = [];
   $scope.getTime = function(mydate){
@@ -14,6 +16,9 @@ app.controller("GetController", ['$scope', 'podcasts', 'feed', '$routeParams', f
 
   podcasts.get($routeParams.podcastSlug, function(res){
     $scope.podcast = res;
+    //set page title
+    ngMeta.setTitle($scope.podcast.name);
+
     if(res.rss_link){ $scope.getEpisodes(res.rss_link); }
   });
 }]);

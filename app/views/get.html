@@ -23,6 +23,12 @@
 
 <section class="container">
   <div class="col-12">
+
+    <ol class="breadcrumb">
+      <li><a href="#/"><i class="fa fa-home"></i> Lista</a></li>
+      <li class="active">{{podcast.name}}</li>
+    </ol>
+
     <div class="block-description panel panel-default">
       <div class="panel-body" ng-bind-html="(podcast.description || 'Sem descrição...')">
       </div>
