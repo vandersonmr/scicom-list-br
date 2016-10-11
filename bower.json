@@ -12,5 +12,7 @@
     "angular-sanitize": "^1.5.6",
     "angular-slugify": "^1.0.1"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "abdmob/x2js": "^1.2.0"
+  }
 }
