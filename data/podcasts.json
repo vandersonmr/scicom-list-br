@@ -8,18 +8,32 @@
     "youtube_link" : "#",
     "rss_link" : "https://jovemnerd.com.br/feed-nerdcast/",
     "soundclound_link" : "#",
-    "language" : "pt_br"
+    "language" : "pt_br",
+    "tags" : [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
   },
   {
     "name" : "Castálio Podcast",
     "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem nihil id repudiandae nesciunt assumenda, voluptatibus expedita ipsum cupiditate explicabo libero saepe eius in veniam, vitae nostrum voluptatum enim ipsam. Sit facere modi odit quas velit voluptates, doloremque harum nulla recusandae quasi veritatis ipsum consequatur dignissimos ab, officiis labore corrupti sint saepe animi ratione quidem vel mollitia! Sit unde accusamus hic quae cum sapiente eum, amet reprehenderit possimus aliquid ut ex, tenetur consequuntur, reiciendis atque rerum labore eveniet veritatis beatae. Accusamus consectetur voluptatibus aspernatur sequi quaerat ipsa repellendus porro, blanditiis et nemo dolorum eveniet earum, vel incidunt tenetur natus molestias. Facere.",
-    "status" : true,
+    "status" : false,
     "itunes_link" : "https://itunes.apple.com/br/podcast/castalio-podcast/id446259197?mt=2",
     "website_link" : false,
     "youtube_link" : false,
     "rss_link" : false,
     "soundclound_link" : false,
-    "language" : "pt_br"
+    "language" : "pt_br",
+    "tags" : [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
   },
   {
     "name" : "CapyCast",
@@ -30,7 +44,14 @@
     "youtube_link" : false,
     "rss_link" : false,
     "soundclound_link" : false,
-    "language" : "pt_br"
+    "language" : "pt_br",
+    "tags" : [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
   },
   {
     "name" : "Carcast Programming",
@@ -41,6 +62,13 @@
     "youtube_link" : false,
     "rss_link" : false,
     "soundclound_link" : false,
-    "language" : "pt_br"
+    "language" : "pt_br",
+    "tags" : [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
   }
 ]

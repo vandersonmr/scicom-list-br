@@ -5,6 +5,7 @@ module.exports = function(grunt) {
         '!./app/app.min.js',
         '!./app/view/',
         './app/app.js',
+        './app/directives/*.js',
         './app/factory/*.js',
         './app/filter/*.js',
         './app/controller/*.js',
@@ -44,7 +45,7 @@ module.exports = function(grunt) {
     },
     watch: {
       scripts: {
-        files: project_files.javascript,
+        files: [project_files.javascript, project_files.stylesheet],
         tasks: ['default']
       },
     }
