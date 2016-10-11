@@ -2,20 +2,20 @@
   <div class="row">
     <section id="main" class="col-xs-12 col-sm-12">
 
-        <form class="filter-bar container-fluid" role="search">
+        <form class="filter-bar container-fluid" ng-model="searchform" role="search">
           <div class="row">
             <div class="form-group col-sm-6">
-              <input type="text" class="form-control input-lg col-lg-6" ng-model="terms" placeholder="Filtrar">
+              <input type="text" class="form-control input-lg col-lg-6" ng-model="searchform.terms" placeholder="Filtrar">
             </div>
             <div class="form-group col-xs-6 col-sm-3">
-              <select class="form-control input-lg" ng-model="status">
+              <select class="form-control input-lg" ng-model="searchform.status">
                 <option value="">Status</option>
                 <option value="true">Ativo</option>
                 <option value="false">Desativado</option>
               </select>
             </div>
             <div class="form-group col-xs-6 col-sm-3">
-              <select class="form-control input-lg" ng-model="language">
+              <select class="form-control input-lg" ng-model="searchform.language">
                 <option value="">Idioma</option>
                 <option value="pt_br">PT BR</option>
                 <option value="en">EN</option>
@@ -26,7 +26,7 @@
 
       <div class="container-fluid">
         <div class="row">
-          <div class="col-sm-6 col-md-4" ng-repeat="item in podcast_list = (podcasts | orderBy:'name' | filter:{ name: terms, status: status, language: language}:strict)">
+          <div class="col-sm-6 col-md-4" ng-repeat="item in podcast_list = (podcasts | orderBy:'name' | filter:{ name: searchform.terms, status: searchform.status, language: searchform.language}:strict)">
             <a href="#/podcast/{{item.name|slugify}}" class="item-list media">
               <div class="media-left media-middle">
                 <img class="media-object" ng-src="https://avatars.io/twitter/{{item.twitter_at}}/large" width="128" height="128" alt="{{item.name}}">

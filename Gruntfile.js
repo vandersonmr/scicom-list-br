@@ -1,6 +1,14 @@
 module.exports = function(grunt) {
   var project_files = {
       javascript: [
+        './bower_components/angular/angular.min.js',
+        './bower_components/angular-slugify/angular-slugify.js',
+        './bower_components/angular-route/angular-route.min.js',
+        './bower_components/angular-animate/angular-animate.min.js',
+        './bower_components/angular-sanitize/angular-sanitize.min.js',
+        './bower_components/angular-bootstrap/ui-bootstrap.min.js',
+        './bower_components/angular-lazy-img/release/angular-lazy-img.js',
+        './bower_components/abdmob/x2js/xml2json.js',
         '!./app/app.min.js',
         '!./app/view/',
         './app/app.js',
@@ -11,6 +19,7 @@ module.exports = function(grunt) {
         './app/routes.js',
       ],
       stylesheet: [
+        './bower_components/font-awesome/css/font-awesome.css',
         '!./assets/css/app.min.css',
         './assets/css/bootstrap.css',
         './assets/css/app.css',
