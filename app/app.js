@@ -1,1 +1,1 @@
-var app = angular.module("devListPodcast", ["slugifier","ngRoute","ui.bootstrap"]);
+var app = angular.module("APBR", ["slugifier","ngRoute","ui.bootstrap"]);

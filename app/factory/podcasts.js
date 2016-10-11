@@ -1,4 +1,4 @@
-app.factory('podcasts', function($http, Slug){
+app.factory('podcasts', ['$http', 'Slug', function($http, Slug){
   return {
     list: function(callback){
       $http.get('./data/podcasts.json?'+Date.now()).then(callback, callback(false));
@@ -16,4 +16,4 @@ app.factory('podcasts', function($http, Slug){
       }, callback(false));
     }
   };
-});
+}]);

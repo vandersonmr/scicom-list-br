@@ -16,9 +16,15 @@
     "web"
   ],
   "author": "Gil Vieira <ogilvieira@gmail.com>",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/ogilvieira/awesome-podcasts-br/issues"
   },
-  "homepage": "https://github.com/ogilvieira/awesome-podcasts-br#readme"
+  "homepage": "https://github.com/ogilvieira/awesome-podcasts-br#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
 }

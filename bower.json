@@ -1,6 +1,6 @@
 {
-  "name": "dev-list-podcast",
-  "description": "A list of brazillian and international podcasts about IT, Science and Dev Culture",
+  "name": "awesome-podcasts-br",
+  "description": "Lista dos podcasts que todo desenvolvedor brasileiro deveria experimentar acompanhar.",
   "main": "index.html",
   "license": "ISC",
   "homepage": "",
@@ -11,5 +11,6 @@
     "angular-route": "^1.5.6",
     "angular-sanitize": "^1.5.6",
     "angular-slugify": "^1.0.1"
-  }
+  },
+  "devDependencies": {}
 }

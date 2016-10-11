@@ -1,4 +1,4 @@
-app.factory('feed', function($http){
+app.factory('feed', ['$http', function($http){
   return {
     list: function(url, callback){
       $http({
@@ -15,4 +15,4 @@ app.factory('feed', function($http){
       });
     }
   };
-});
+}]);
