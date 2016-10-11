@@ -45,7 +45,7 @@ module.exports = function(grunt) {
     cssmin : {
       options : {
         keepSpecialComments: 0,
-        rebase: true,
+        rebase: false,
       },
       dist: {
         src: project_files.stylesheet,
