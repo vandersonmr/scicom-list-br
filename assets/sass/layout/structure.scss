@@ -1,1 +1,10 @@
-body { padding-top: 70px; }
+body {
+  padding-top: 120px;
+  background-color: whitesmoke !important;
+}
+
+@media screen and (max-width: 991px){
+  body {
+    padding-top: 70px;
+  }
+}

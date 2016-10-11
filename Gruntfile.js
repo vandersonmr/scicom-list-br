@@ -1,5 +1,4 @@
 module.exports = function(grunt) {
-  
   var project_files = {
       javascript: [
         '!./app/app.min.js',
@@ -13,7 +12,8 @@ module.exports = function(grunt) {
       ],
       stylesheet: [
         '!./assets/css/app.min.css',
-        './assets/css/**/*.css',
+        './assets/css/bootstrap.css',
+        './assets/css/app.css',
       ],
   };
 

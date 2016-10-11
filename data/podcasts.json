@@ -8,6 +8,7 @@
     "youtube_link" : "#",
     "rss_link" : "https://jovemnerd.com.br/feed-nerdcast/",
     "soundclound_link" : "#",
+    "twitter_at": "",
     "language" : "pt_br",
     "tags" : [
       "1",
@@ -26,6 +27,7 @@
     "youtube_link" : false,
     "rss_link" : false,
     "soundclound_link" : false,
+    "twitter_at": "",
     "language" : "pt_br",
     "tags" : [
       "1",
@@ -44,6 +46,7 @@
     "youtube_link" : false,
     "rss_link" : false,
     "soundclound_link" : false,
+    "twitter_at": "",
     "language" : "pt_br",
     "tags" : [
       "1",
@@ -62,6 +65,7 @@
     "youtube_link" : false,
     "rss_link" : false,
     "soundclound_link" : false,
+    "twitter_at": "carcastprog",
     "language" : "pt_br",
     "tags" : [
       "1",

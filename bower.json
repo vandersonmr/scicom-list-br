@@ -13,6 +13,8 @@
     "angular-slugify": "^1.0.1"
   },
   "devDependencies": {
-    "abdmob/x2js": "^1.2.0"
+    "abdmob/x2js": "^1.2.0",
+    "Ionicons": "ionicons#^2.0.1",
+    "font-awesome": "^4.6.3"
   }
 }
