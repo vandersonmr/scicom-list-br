@@ -29,7 +29,8 @@
           <div class="col-sm-6 col-md-4" ng-repeat="item in podcast_list = (podcasts | orderBy:'name' | filter:{ name: searchform.terms, status: searchform.status, language: searchform.language}:strict)">
             <a href="#/podcast/{{item.name|slugify}}" class="item-list media">
               <div class="media-left media-middle">
-                <img class="media-object" ng-src="https://avatars.io/twitter/{{item.twitter_at}}" width="128" height="128" alt="{{item.name}}">
+                <img class="media-object" ng-if="item.twitter_at" ng-src="https://avatars.io/twitter/{{item.twitter_at}}" width="128" height="128" alt="{{item.name}}">
+                <img class="media-object" ng-if="!item.twitter_at" ng-src="assets/img/placeholder.png" width="128" height="128" alt="{{item.name}}">
               </div>
               <div class="media-body">
                 <h4 class="media-heading"> <i class="fa" ng-class="{ 'fa-circle' : item.status, 'fa-circle-o' : !item.status}" aria-hidden="true"></i> {{item.name | limitTo: 21}}</h4>
@@ -38,7 +39,7 @@
                   <span ng-if="item.soundclound_link"><i class="fa fa-soundcloud"></i></span>
                   <span ng-if="item.rss_link"><i class="fa fa-rss"></i></span>
                   <span ng-if="item.website_link"><i class="fa fa-link"></i></span>
-                  <p ng-bind="(item.description | limitTo: 80)+'...'"></p>
+                  <p ng-bind="(( stripTags(item.description) || 'Sem descrição') | limitTo: 80)+'...'"></p>
               </div>
             </a>
           </div>
