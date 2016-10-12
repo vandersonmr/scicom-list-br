@@ -482,30 +482,30 @@
   },
   {
     "name":"5 Minutes of Javascript",
-    "description":"",
+    "description":"The latest news in the JavaScript community.",
     "status":true,
     "itunes_link":"https://itunes.apple.com/us/podcast/5-minutes-of-javascript/id775261328?mt=2",
     "website_link":"https://fivejs.codeschool.com/",
     "youtube_link":"",
-    "rss_link":"",
+    "rss_link":"https://fivejs.codeschool.com/feed.rss",
     "soundclound_link":"",
-    "twitter_at":"",
+    "twitter_at":"FiveJSPodcast",
     "language":"en"
   },
   {
     "name":"Adventures in Angular",
-    "description":"",
+    "description":"Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.",
     "status":true,
     "itunes_link":"https://itunes.apple.com/us/podcast/adventures-in-angular/id907361052",
     "website_link":"https://devchat.tv/adventures-in-angular",
     "youtube_link":"",
     "rss_link":"",
     "soundclound_link":"",
-    "twitter_at":"",
+    "twitter_at":"devchattv",
     "language":"en"
   },
   {
-    "name":" Android Developers Backstage ",
+    "name":"Android Developers Backstage",
     "description":"",
     "status":true,
     "itunes_link":"https://itunes.apple.com/us/podcast/android-developers-backstage/id785545036?mt=2",
@@ -513,11 +513,11 @@
     "youtube_link":"",
     "rss_link":"",
     "soundclound_link":"",
-    "twitter_at":"",
+    "twitter_at":"retomeier",
     "language":"en"
   },
   {
-    "name":" Android Intelligence ",
+    "name":"Android Intelligence",
     "description":"",
     "status":true,
     "itunes_link":"https://itunes.apple.com/us/podcast/android-intelligence/id1105166538",
@@ -535,19 +535,19 @@
     "itunes_link":"https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=404064215",
     "website_link":"http://5by5.tv/buildanalyze",
     "youtube_link":"",
-    "rss_link":"",
+    "rss_link":"http://feeds.5by5.tv/buildanalyze",
     "soundclound_link":"",
     "twitter_at":"",
     "language":"en"
   },
   {
     "name":"Coding 101",
-    "description":"",
+    "description":"Join Father Robert Ballecer and Lou Maresca on Coding 101, a weekly instructional, project-oriented programming show with appeal for beginning to intermediate programmers. Using a combination of classroom-style teaching, guest programmers, and special interest segments, Coding 101 will offer beginner, intermediate and \"applied\" programming topics within several interchangeable modules. Learn programming languages such as Java, C++, Visual Basic, and more!",
     "status":true,
     "itunes_link":"https://itunes.apple.com/us/podcast/coding-101-mp3/id804926728",
     "website_link":"https://twit.tv/shows/coding-101",
-    "youtube_link":"",
-    "rss_link":"",
+    "youtube_link":"https://www.youtube.com/TWiTCoding101",
+    "rss_link":"http://feeds.twit.tv/code.xml",
     "soundclound_link":"",
     "twitter_at":"",
     "language":"en"
@@ -559,21 +559,21 @@
     "itunes_link":"https://itunes.apple.com/us/podcast/codenewbie/id919219256",
     "website_link":"http://www.codenewbie.org/podcast",
     "youtube_link":"",
-    "rss_link":"",
+    "rss_link":"http://feeds.podtrac.com/q8s8ba9YtM6r",
     "soundclound_link":"",
-    "twitter_at":"",
+    "twitter_at":"codenewbies",
     "language":"en"
   },
   {
     "name":"CodePen Radio",
-    "description":"",
+    "description":"A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
     "status":true,
     "itunes_link":"https://itunes.apple.com/us/podcast/codepen-radio/id824437159",
     "website_link":"https://blog.codepen.io/radio/",
     "youtube_link":"",
-    "rss_link":"",
+    "rss_link":"https://blog.codepen.io/feed/podcast/",
     "soundclound_link":"",
-    "twitter_at":"",
+    "twitter_at":"CodePen",
     "language":"en"
   },
   {
@@ -601,7 +601,7 @@
     "language":"en"
   },
   {
-    "name":" Fragmented ",
+    "name":"Fragmented",
     "description":"",
     "status":true,
     "itunes_link":"https://itunes.apple.com/us/podcast/fragmented/id968779958",
@@ -996,7 +996,7 @@
     "language":"en"
   },
   {
-    "name":" Toolsday ",
+    "name":"Toolsday",
     "description":"",
     "status":true,
     "itunes_link":"https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2",
@@ -1008,7 +1008,7 @@
     "language":"en"
   },
   {
-    "name":" TTL Podcast ",
+    "name":"TTL Podcast",
     "description":"",
     "status":true,
     "itunes_link":"https://itunes.apple.com/us/podcast/ttl-podcast/id989679484",
@@ -1020,7 +1020,7 @@
     "language":"en"
   },
   {
-    "name":" Under The Radar ",
+    "name":"Under The Radar",
     "description":"",
     "status":true,
     "itunes_link":"https://itunes.apple.com/gb/podcast/under-the-radar/id1055685246?mt=2",
@@ -1032,7 +1032,7 @@
     "language":"en"
   },
   {
-    "name":" XDA Developers ",
+    "name":"XDA Developers",
     "description":"",
     "status":true,
     "itunes_link":"https://itunes.apple.com/us/podcast/xda-developerss-podcast/id1047717077?mt=2",
