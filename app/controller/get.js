@@ -18,9 +18,7 @@ app.controller("GetController", ['$scope', 'podcasts', 'feed', '$routeParams', '
 
   podcasts.get($routeParams.podcastSlug, function(res){
     $scope.podcast = res;
-    //set page title
     ngMeta.setTitle($scope.podcast.name);
-
-    if(res.rss_link){ $scope.getEpisodes(res.rss_link); }
+    if(res.rss_link){ $scope.getEpisodes(res.rss_link); } else { $scope.feedloaded = true; }
   });
 }]);

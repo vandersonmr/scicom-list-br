@@ -2,8 +2,8 @@ app.controller("ListController", ['$scope', 'podcasts', 'feed', 'ngMeta', functi
 
   ngMeta.setTitle('Lista de Podcasts');
 
-  $scope.podcasts = {};
-  $scope.loader = true;
+  $scope.podcasts = [];
+  $scope.loaded = false;
   $scope.searchform = {};
 
   (function(){
@@ -27,7 +27,7 @@ app.controller("ListController", ['$scope', 'podcasts', 'feed', 'ngMeta', functi
   }, true);
 
   podcasts.list(function(res){
-    $scope.podcasts = res.data;
+    if(res.data){ $scope.podcasts = res.data; $scope.loaded = true; }
   });
 
 }]);
