@@ -20,9 +20,11 @@ app.controller("ListController", ['$scope', 'podcasts', 'feed', 'ngMeta', functi
   $scope.clearQuery = function(){
     localStorage.removeItem('searchform');
     $scope.searchform = {};
+    console.log('cleaned');
   };
 
-  $scope.$watch("searchform", function(){
+  $scope.$watchGroup('searchform', function(){
+    console.log($scope.searchform);
     localStorage.setItem('searchform', JSON.stringify($scope.searchform));
   }, true);
 
