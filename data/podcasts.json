@@ -499,7 +499,7 @@
     "itunes_link":"https://itunes.apple.com/us/podcast/adventures-in-angular/id907361052",
     "website_link":"https://devchat.tv/adventures-in-angular",
     "youtube_link":"",
-    "rss_link":"",
+    "rss_link":"http://feeds.feedwrench.com/AdventuresInAngular.rss",
     "soundclound_link":"",
     "twitter_at":"angularpodcast",
     "language":"en"
