@@ -30,6 +30,12 @@ module.exports = function(grunt) {
   // Project configuration.
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
+    concat: {
+      json: {
+          src: ['./data/podcasts_pt_br.json','./data/podcasts_en.json'],
+          dest: './data/podcasts.json'
+      }
+    },
     uglify: {
       options: {
         banner: '/*===================================================== \n'
@@ -57,14 +63,16 @@ module.exports = function(grunt) {
       scripts: {
         files: [project_files.javascript, project_files.stylesheet],
         tasks: ['default']
-      },
+      }
     }
   });
 
+  grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-contrib-watch');
 
+  grunt.registerTask('concat', ['concat']);
   grunt.registerTask('default', ['uglify', 'cssmin']);
 
   grunt.event.on('watch', function(action, filepath, target) {
