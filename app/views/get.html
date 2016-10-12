@@ -34,6 +34,11 @@
       </div>
     </div>
   </div>
+  <center ng-if="!feedloaded && feedlist.length == 0">
+    <i class="fa fa-cog fa-spin fa-3x fa-fw"></i>
+    <span class="sr-only">Loading...</span>
+  </center>
+
   <div ng-if="feedlist.length" class="col-12">
       <h3><i class="fa fa-volume-up"></i> Últimos episódios no feed:</h3>
       <div class="row">

@@ -1,16 +1,18 @@
 app.controller("GetController", ['$scope', 'podcasts', 'feed', '$routeParams', 'ngMeta',
   function($scope, podcasts, feed, $routeParams, ngMeta){
 
+  $scope.feedloaded = false;
   $scope.podcasts = false;
   $scope.feedlist = [];
   $scope.getTime = function(mydate){
     var d = new Date(mydate);
     return d.getTime();
-  }
+  };
 
   $scope.getEpisodes = function(urlRss){
     feed.list(urlRss, function(res){
       $scope.feedlist = res.responseData.feed.entries.slice(0, 9);
+      $scope.feedloaded = true;
     });
   };
 
