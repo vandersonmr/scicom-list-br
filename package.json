@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/ogilvieira/awesome-podcasts-br#readme",
   "devDependencies": {
+    "bower": "^1.7.9",
     "grunt": "^1.0.1",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-cssmin": "^1.0.2",

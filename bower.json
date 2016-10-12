@@ -15,6 +15,7 @@
     "font-awesome": "^4.6.3"
   },
   "devDependencies": {
-    "ngMeta": "^0.3.10"
+    "ngMeta": "^0.3.10",
+    "angular-google-analytics": "^1.1.7"
   }
 }
