@@ -1,4 +1,5 @@
 <img align="center" src="https://raw.githubusercontent.com/ogilvieira/awesome-podcasts-br/2.0.0/brand_files/brand_medium.png" alt="Awesome Podcasts BR">
+http://ogilvieira.github.io/awesome-podcasts-br
 ---
 
 Lista dos podcasts que todo desenvolvedor brasileiro deveria experimentar acompanhar.
