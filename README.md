@@ -6,9 +6,8 @@
     Lista dos podcasts que todo desenvolvedor brasileiro deveria experimentar acompanhar. 
   </p>
 ---
-## Dê sua contribuição
-* Dê fork e mande seu PR para aumentar ainda mais essa lista! :rocket:
-* Algum podcast da lista saiu do ar ou parou de ser atualizado? crie uma issue para nos avisar!
-* Lembre-se de manter a lista organizada em ordem alfabética
+## Como contribuir? :rocket:
+* Por Pull Request, alterando o arquivo json da lista de podcasts.
+* Por issue, para sugerir alterações ou adicionar um novo cast.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-67879079-1/ogilvieira/dev-podcast-list-brazil)](https://github.com/ogilvieira/dev-podcast-list-brazil)
