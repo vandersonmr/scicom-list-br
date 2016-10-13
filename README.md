@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://ogilvieira.github.io/awesome-podcasts-br" target="_blank">
-    <img src="https://raw.githubusercontent.com/ogilvieira/awesome-podcasts-br/2.0.0/brand_files/brand_medium.png" alt="Awesome Podcasts BR">
+    <img src="https://raw.githubusercontent.com/ogilvieira/awesome-podcasts-br/master/brand_files/brand_medium.png" alt="Awesome Podcasts BR">
     </a>
     <br>
     Lista dos podcasts que todo desenvolvedor brasileiro deveria experimentar acompanhar. 
