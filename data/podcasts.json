@@ -483,7 +483,7 @@
   {
     "name":"5 Minutes of Javascript",
     "description":"The latest news in the JavaScript community.",
-    "status":true,
+    "status":false,
     "itunes_link":"https://itunes.apple.com/us/podcast/5-minutes-of-javascript/id775261328?mt=2",
     "website_link":"https://fivejs.codeschool.com/",
     "youtube_link":"",
@@ -1077,6 +1077,30 @@
     "rss_link":"https://simplecast.com/podcasts/150/rss",
     "soundclound_link":"",
     "twitter_at":"",
+    "language":"en"
+  },
+  {
+    "name":"Greater Than Code",
+    "description":"A podcast about people and code",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/us/podcast/greater-than-code/id1163023878",
+    "website_link":"https://www.greaterthancode.com/",
+    "youtube_link":"",
+    "rss_link":"https://www.greaterthancode.com/feed/podcast",
+    "soundclound_link":"",
+    "twitter_at":"greaterthancode",
+    "language":"en"
+    },
+  {
+    "name":"Functional Geekery",
+    "description":"A podcast on Functional Programming, covering topics across multiple languages.",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/podcast/id790455326",
+    "website_link":"https://www.functionalgeekery.com/",
+    "youtube_link":"",
+    "rss_link":"https://www.functionalgeekery.com/feed/mp3/",
+    "soundclound_link":"",
+    "twitter_at":"fngeekery",
     "language":"en"
   }
 ]
