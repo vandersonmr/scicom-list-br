@@ -1102,5 +1102,29 @@
     "soundclound_link":"",
     "twitter_at":"fngeekery",
     "language":"en"
+  },
+  {
+    "name":"Start Here: Web Development",
+    "description":"Are you switching careers and in need of guidance? Well, StartHere: Web Development is the show for you! Dain Miller is your new mentor as he shares his industry experience, insight, and resources to help get you from knowing nothing to becoming a full-time web developer. Everyone starts somewhere and you’re starting here.",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/us/podcast/start-here-web-development/id8980264561",
+    "website_link":"http://starthere.fm/category/webdev",
+    "youtube_link":"https://www.youtube.com/channel/UCZHWAv6OKOmpe7vwmZn5bCg",
+    "rss_link":"http://feeds.soundcloud.com/users/soundcloud:users:130907148/sounds.rss",
+    "soundclound_link":"https://soundcloud.com/starthere-webdev",
+    "twitter_at":"dainmiller",
+    "language":"en"
+  },
+  {
+    "name":"Start Here: Ruby on Rails",
+    "description":"Are you a new Ruby on Rails developer in need of guidance? Well, StartHere: Ruby on Rails is the show for you! Dain Miller is your Ruby on Rails coach and he'll provide insight, and resources to help get you from knowing nothing to becoming a full-time Ruby ninja. Everyone starts somewhere and you’re starting here!",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/br/app/soundcloud-music-audio/id336353151",
+    "website_link":"http://starthere.fm/category/rubyonrails",
+    "youtube_link":"https://www.youtube.com/channel/UCZHWAv6OKOmpe7vwmZn5bCg",
+    "rss_link":"http://feeds.soundcloud.com/users/soundcloud:users:189116962/sounds.rss",
+    "soundclound_link":"https://soundcloud.com/starthere-rubyonrails",
+    "twitter_at":"dainmiller",
+    "language":"en"
   }
 ]
