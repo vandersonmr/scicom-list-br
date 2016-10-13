@@ -609,5 +609,17 @@
     "soundclound_link":"",
     "twitter_at":"fngeekery",
     "language":"en"
+  },
+  {
+    "name":"Greater Than Code",
+    "description":"A podcast about people and code",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/us/podcast/greater-than-code/id1163023878",
+    "website_link":"https://www.greaterthancode.com/",
+    "youtube_link":"",
+    "rss_link":"https://www.greaterthancode.com/feed/podcast",
+    "soundclound_link":"",
+    "twitter_at":"greaterthancode",
+    "language":"en"
   }
 ]
