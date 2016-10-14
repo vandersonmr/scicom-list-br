@@ -1126,5 +1126,17 @@
     "soundclound_link":"https://soundcloud.com/starthere-rubyonrails",
     "twitter_at":"dainmiller",
     "language":"en"
+  },
+  {
+    "name":"Mega Maker",
+    "description":"The podcast for independent makers MegaMaker is a show for software developers, designers, writers, entrepreneurs, artists, and other creatives who want to earn a living from the things they create.",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/us/podcast/megamaker/id1074661788",
+    "website_link":"http://megamaker.co/",
+    "youtube_link":"",
+    "rss_link":"https://simplecast.com/podcasts/1376/rss",
+    "soundclound_link":"",
+    "twitter_at":"megamaker3000",
+    "language":"en"
   }
 ]
