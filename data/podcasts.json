@@ -1138,5 +1138,17 @@
     "soundclound_link":"",
     "twitter_at":"megamaker3000",
     "language":"en"
+  },
+  {
+    "name":"Elixir Fountain",
+    "description":"The Elixir Fountain Bringing you the News & Interviews from around the Elixir Community.",
+    "status":true,
+    "itunes_link":"",
+    "website_link":"http://elixirfountain.com/",
+    "youtube_link":"",
+    "rss_link":"http://feeds.soundcloud.com/users/soundcloud:users:24638646/sounds.rss",
+    "soundclound_link":"https://soundcloud.com/elixirfountain",
+    "twitter_at":"elixirfountain",
+    "language":"en"
   }
 ]
