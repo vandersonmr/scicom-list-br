@@ -1150,5 +1150,17 @@
     "soundclound_link":"https://soundcloud.com/elixirfountain",
     "twitter_at":"elixirfountain",
     "language":"en"
+  },
+  {
+    "name":"Learn to Code with Me",
+    "description":"<p>Hey there! I’m Laurence Bradford, the creator of Learn to Code With Me. I am a completely self-taught front end developer with a lot left to learn. And I love continuing that journey every day.</p><p>Since I began gaining these valuable digital skills, I’ve been able to make more money, work less, pursue passions that I care about, and, ultimately, enjoy freedom and flexibility.</p><p>But this wasn’t always the case..<p>",
+    "status":true,
+    "itunes_link":"http://learntocodewith.me/itunes",
+    "website_link":"http://learntocodewith.me/podcast/",
+    "youtube_link":"",
+    "rss_link":"http://learntocodewithme.libsyn.com/rss",
+    "soundclound_link":"",
+    "twitter_at":"learncodewithme",
+    "language":"en"
   }
 ]
