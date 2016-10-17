@@ -1162,5 +1162,17 @@
     "soundclound_link":"",
     "twitter_at":"learncodewithme",
     "language":"en"
+  },
+  {
+    "name":"Full Stack Radio",
+    "description":"A podcast for developers interested in building great software products. Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration.",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/us/podcast/full-stack-radio/id931714873",
+    "website_link":"http://www.fullstackradio.com/",
+    "youtube_link":"",
+    "rss_link":"https://simplecast.com/podcasts/279/rss",
+    "soundclound_link":"",
+    "twitter_at":"fullstackradio",
+    "language":"en"
   }
 ]
