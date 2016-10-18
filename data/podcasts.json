@@ -1174,5 +1174,17 @@
     "soundclound_link":"",
     "twitter_at":"fullstackradio",
     "language":"en"
+  },
+  {
+    "name":"Curto Circuito",
+    "description":"Um bate-papo descontraído sobre tecnologia, nerdices e tudo o mais que a curiosidade pedir no melhor estilo 'mesa de bar'.",
+    "status":false,
+    "itunes_link":"https://itunes.apple.com/us/podcast/curto-circuito-podcast/id712723389",
+    "website_link":"http://curtocircuito.cc/",
+    "youtube_link":"",
+    "rss_link":"http://curtocircuito.cc/atom.xml",
+    "soundclound_link":"",
+    "twitter_at":"curtopodcast",
+    "language":"pt_br"
   }
 ]
