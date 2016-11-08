@@ -25,12 +25,12 @@
   },
   {
     "name" : "CapyCast",
-    "description" : "",
+    "description" : "Perfil do time de produto da Resultados Digitais. Aqui compartilhamos sobre experiências com tecnologia construindo o RDStation.",
     "status" : true,
     "itunes_link" : "https://itunes.apple.com/fj/podcast/capycast/id1093562535?mt=2",
     "website_link" : false,
     "youtube_link" : false,
-    "rss_link" : false,
+    "rss_link" : "http://feeds.soundcloud.com/users/soundcloud:users:212089450/sounds.rss",
     "soundclound_link" : "https://soundcloud.com/rdshipit/sets/capycast",
     "twitter_at": "RDShipIt",
     "language" : "pt_br"
