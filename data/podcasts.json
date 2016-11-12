@@ -325,6 +325,18 @@
     "language" : "pt_br"
   },
   {
+    "name" : "ProdCast",
+    "description" : "",
+    "status" : true,
+    "itunes_link" : "",
+    "website_link" : "",
+    "youtube_link" : "",
+    "rss_link" : "http://feeds.soundcloud.com/users/soundcloud:users:134576024/sounds.rss",
+    "soundclound_link" : "https://soundcloud.com/concrete-solutions",
+    "twitter_at": "",
+    "language" : "pt_br"
+  },
+  {
     "name" : "Revista Clichê",
     "description" : "A Revista Cliche é uma publicação independente que apresenta aos seus leitores semestralmente conceitos de Design, com assuntos específicos e conteúdo de qualidade. Idealizada por estudantes de Design da Universidade Tecnológica Federal do Paraná (UTFPR), tem como intuito difundir a produção acadêmica da área.",
     "status" : true,
