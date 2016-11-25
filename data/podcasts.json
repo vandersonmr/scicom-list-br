@@ -74,7 +74,7 @@
   {
     "name" : "CodeCasts",
     "description" : "",
-    "status" : true,
+    "status" : false,
     "itunes_link" : "",
     "website_link" : "https://codecasts.com.br/podcast",
     "youtube_link" : "",
