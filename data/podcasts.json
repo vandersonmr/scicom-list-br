@@ -399,7 +399,7 @@
   {
     "name" : "Tecnologicamente Arretado",
     "description" : "Um podcast orgulhosamente brasileiro com grandes amigos falando um monte de coisas relacionadas à produção de software.",
-    "status" : true,
+    "status" : false,
     "itunes_link" : "https://itunes.apple.com/br/podcast/tecnologicamente-arretado/id873915897",
     "website_link" : "http://tecnologicamentearretado.com.br/",
     "youtube_link" : "",
