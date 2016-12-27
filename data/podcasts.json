@@ -673,6 +673,18 @@
     "language":"en"
   },
   {
+    "name":"Herding Code",
+    "description":"At number 3 we have Herding Code, hosted by K. Scott Allen, Kevin Dente, Scott Koon, and Jon Galloway. Four hosts tend to produce a slightly lower signal to noise ratio compared to other podcasts, but the content is usually well worth it. Again, you’ll mostly hear about Microsoft technologies here.",
+    "status":true,
+    "itunes_link":"http://www.itunes.com/podcast?id=284067914",
+    "website_link":"http://herdingcode.com/",
+    "youtube_link":"",
+    "rss_link":"http://herdingcode.com/comments/feed/",
+    "soundclound_link":"",
+    "twitter_at":"herdingcode",
+    "language":"en"
+  },
+  {
     "name":"Happy Hour Podcast - 9to5Mac",
     "description":"A weekly podcast discussing the latest in Apple and technology.",
     "status":true,
