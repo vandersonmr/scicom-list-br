@@ -781,6 +781,18 @@
     "language":"en"
   },
   {
+    "name":".NET Rocks!",
+    "description":".NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/podcast/.net-rocks!/id130068596?mt=2",
+    "website_link":"https://www.dotnetrocks.com/",
+    "youtube_link":"https://www.youtube.com/channel/UCzFI1pdRbomHsD6hy7daQWA",
+    "rss_link":"http://www.pwop.com/feed.aspx?show=dotnetrocks&filetype=master",
+    "soundclound_link":"",
+    "twitter_at":"carlfranklin",
+    "language":"en"
+  },
+  {
     "name":"NodeUp",
     "description":"A Node.Js Podcast",
     "status":true,
