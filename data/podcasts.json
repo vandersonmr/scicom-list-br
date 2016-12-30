@@ -1222,5 +1222,17 @@
     "soundclound_link":"",
     "twitter_at":"curtopodcast",
     "language":"pt_br"
+  },
+  {
+    "name":"Mateada PodCast",
+    "description":"A cada quinze dias, aqui rola um bate papo descontraído sobre tudo que acontece no dia a dia de uma agência: café (não dá pra trabalhar sem), a turma do happy hour, “quem vai atender o telefone” e até aquele job que surge de última hora. Denis Andrade, Carina Andrade e Bruna Cunha recebem convidados para falar sobre o jeitinho que só quem trabalha em agência enxerga o mundo.",
+    "status":true,
+    "itunes_link":false,
+    "website_link":"https://blog.mateada.com/podcast/",
+    "youtube_link":"https://www.youtube.com/user/agenciamateada",
+    "rss_link": false,
+    "soundclound_link": false,
+    "twitter_at":"agenciamateada",
+    "language":"pt_br"
   }
 ]
