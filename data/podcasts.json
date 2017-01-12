@@ -517,6 +517,18 @@
     "language":"en"
   },
   {
+    "name":"All Ears English Podcast",
+    "description":"Learn advanced English conversation from two native American English speakers.",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/br/podcast/all-ears-english-podcast-real/id751574016",
+    "website_link":"https://www.allearsenglish.com/",
+    "youtube_link":"",
+    "rss_link":"",
+    "soundclound_link":"",
+    "twitter_at":"allearsenglish",
+    "language":"en"
+  },
+  {
     "name":"Android Developers Backstage",
     "description":"",
     "status":true,
