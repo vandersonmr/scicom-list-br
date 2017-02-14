@@ -1246,5 +1246,17 @@
     "soundclound_link": false,
     "twitter_at":"agenciamateada",
     "language":"pt_br"
+  },
+  {
+    "name":"Bluesoft PodCast",
+    "description":"Podcast sobre desenvolvimento ágil, software e tecnologia apresentado por André Faria e Luiz Faias Jr, e toda a equipe da Bluesoft.",
+    "status":true,
+    "itunes_link":false,
+    "website_link":"http://labs.bluesoft.com.br/category/podcast/",
+    "youtube_link":"https://www.youtube.com/channel/UCMbi8katMCUd5JkJ3Rr0t_w/featured",
+    "rss_link": false,
+    "soundclound_link": false,
+    "twitter_at":"bluesoftlabs",
+    "language":"pt_br"
   }
 ]
