@@ -6,7 +6,9 @@
     Lista dos podcasts que todo desenvolvedor brasileiro deveria experimentar acompanhar. 
     <a href="http://ogilvieira.github.io/awesome-podcasts-br" target="_blank">[VER SITE]</a>
   </p>
+
 ---
+
 ## Como contribuir? :rocket:
 
 * **Fork & Pull Request:**
