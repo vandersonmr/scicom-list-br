@@ -326,9 +326,9 @@
   },
   {
     "name" : "PodTech",
-    "description" : "O PodTech é um podcast semanal dinâmico, onde cada semana temos um convidado e um tema diferente geralmente relacionado a linguagem Go.",
+    "description" : "O PodTech é um podcast quinzenal dinâmico, onde a cada episódio temos um convidado e um tema diferente geralmente relacionado a linguagem Go.",
     "status" : true,
-    "itunes_link" : "",
+    "itunes_link" : "https://itunes.apple.com/br/podcast/podtech/id1214677573",
     "website_link" : "",
     "youtube_link" : "https://www.youtube.com/euprogramadoroficial",
     "rss_link" : "http://feeds.soundcloud.com/users/soundcloud:users:243296193/sounds.rss",
