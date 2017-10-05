@@ -180,6 +180,18 @@
     "language" : "pt_br"
   },
   {
+    "name":"Guia Prático",
+    "description":"Podcast sobre tecnologia de consumo. Programas semanais de 40 minutos sobre temas atuais da área, debatidos com bom humor, respeito e pessoas que respiram e conseguem não gritar num podcast. Nos microfones, revezam-se Emily Canto Nunes, Joel Nascimento Jr., Paulo Higa, Rodrigo Ghedin e Samir Salim Jr. A edição é feita por Rodrigo Ghedin. O Guia Prático é um podcast do blog Manual do Usuário. Acesse em: http://www.manualdousuario.net",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/br/podcast/manual-do-usuario/id626159386",
+    "website_link":"https://www.manualdousuario.net/podcast/",
+    "youtube_link":"",
+    "rss_link":"http://www.buzzsprout.com/10363.rss",
+    "soundclound_link":"",
+    "twitter_at":"manualusuariobr",
+    "language":"pt_br"
+  },
+  {
     "name" : "GrokPodcasts",
     "description" : "<p>Grok é um termo inventado por Robert Heinlein, famoso escritor de ficção norte americano, que em 1961 publicou o livro “Um estranho numa terra estranha“, onde conta a história de um “marciano” que vem a terra e tenta entender nosso mundo. Lá pelas tantas ele conta que na cultura marciana há “grokar”, que significa “entender algo tão completa e profundamente que o observador e o objeto observado se tornam um só”. Pode parecer uma idéia estranha, meio Zen, mas faz muito sentido no contexto do livro e, acredito eu, é algo interesante para a vida real.</p><p>Entender as coisas profundamente é difícil, trabalhoso, leva tempo e, portanto, raro, mas compensa. Nosso objetivo não é grokar tudo sobre qualquer assunto, mas tentar grokar algumas coisas que gostamos como tecnologia, empreendedorismo, agilidade, e etc, e vamos compartilhar com vocês nossa jornada.</p>",
     "status" : false,
