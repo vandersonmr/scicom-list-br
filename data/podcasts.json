@@ -240,6 +240,18 @@
     "language" : "pt_br"
   },
   {
+    "name":"Meta-Cast, an agile podcast",
+    "description":"An agile podcast, delivered by agile practitioners, focused on helping agile teams. Bob Galen and Josh Anderson use their decades of agile coaching experience to power your organizations need for agility and scale. If our 100+ episodes don't have what you need, ask us a question and we'll help you out!",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/br/podcast/meta-cast-an-agile-podcast/id356489089",
+    "website_link":"http://www.meta-cast.com/",
+    "youtube_link":"",
+    "rss_link":"",
+    "soundclound_link":"",
+    "twitter_at":"metahyphencast",
+    "language":"en"
+  },
+  {
     "name" : "NerdCast",
     "description" : "<p>O Nerdcast completou 10 anos em 2016 com 1 milhão de downloads por episódio e como primeiro lugar de audiência em podcasts no Brasil. Os assuntos são história, ciência, cinema, quadrinhos, literatura, tecnologia, games, RPG… Tudo que um nerd gosta! A conversa é informal, divertida, escrachada e tão doida quanto séria. Quer dizer, tão séria quanto doida!</p><p>Junte-se aos convidados de Alexandre “Jovem Nerd” Ottoni e Deive “Azaghal” Pazos e faça parte da roda das discussões mais nerds da internet.</p>",
     "status" : true,
