@@ -52,6 +52,19 @@
     "language" : "pt_br"
   },
   {
+    "name" : "Upgrade",
+    "description" : "<p>Upgrade looks at how companies including Apple, Amazon and Google shape the technology in our lives and how people do creative work in the digital age.</p>",
+    "status" : true,
+    "itunes_link" : "https://itunes.apple.com/us/podcast/upgrade/id918152703",
+    "website_link" : "https://www.relay.fm/upgrade",
+    "youtube_link" : "",
+    "rss_link" : "https://www.relay.fm/upgrade/feed",
+    "soundclound_link" : "",
+    "twitter_at": "_upgradefm",
+    "image":"",
+    "language" : "en"
+  },
+  {
     "name" : "CocaTech",
     "description" : "<p>A proposta é um podcast diário compartilhando minha experiência com a tecnologia, lembrando algum app e comentando as notícias do dia. A idéia é um bate-papo rápido sobre tecnologia desde um ponto de vista Apple. Além desse projeto em áudio, existe um projeto em vídeo: CocaTech TV.</p><p>Embora nem sempre seja possível, a meta é, ou pelo menos já foi, ficar abaixo dos 20 megas, viabilizando o download via 3G, ainda assim fique atendo ao seu plano de dados. O formato escolhido é o MP3 por ser mais abrangente.</p><p>Existem três tipos de podcasts produzidos pelo CocaTech. O diário com notícias, comentários, dicas de aplicativos, reviews, etc. O especial abordando algum tema específico. E o Live onde o microfone fica aberto aos ouvintes.</p>",
     "status" : true,
