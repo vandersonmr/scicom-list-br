@@ -65,6 +65,19 @@
     "language" : "en"
   },
   {
+    "name" : "Like a Boss",
+    "description" : "<p>Um podcast em formato de série. A cada temporada são seis conversas com líderes e fundadores de startups e empresas inovadoras, conhecendo suas decisões e como trabalham.</p>",
+    "status" : true,
+    "itunes_link" : "https://itunes.apple.com/br/podcast/like-a-boss/id1294402561",
+    "website_link" : "https://www.likeaboss.com.br",
+    "youtube_link" : "",
+    "rss_link" : "https://www.likeaboss.com.br/episodios/feed/",
+    "soundclound_link" : "",
+    "twitter_at": "",
+    "image":"",
+    "language" : "pt_br"
+  },
+  {
     "name" : "CocaTech",
     "description" : "<p>A proposta é um podcast diário compartilhando minha experiência com a tecnologia, lembrando algum app e comentando as notícias do dia. A idéia é um bate-papo rápido sobre tecnologia desde um ponto de vista Apple. Além desse projeto em áudio, existe um projeto em vídeo: CocaTech TV.</p><p>Embora nem sempre seja possível, a meta é, ou pelo menos já foi, ficar abaixo dos 20 megas, viabilizando o download via 3G, ainda assim fique atendo ao seu plano de dados. O formato escolhido é o MP3 por ser mais abrangente.</p><p>Existem três tipos de podcasts produzidos pelo CocaTech. O diário com notícias, comentários, dicas de aplicativos, reviews, etc. O especial abordando algum tema específico. E o Live onde o microfone fica aberto aos ouvintes.</p>",
     "status" : true,
