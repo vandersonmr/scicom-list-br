@@ -1433,9 +1433,9 @@
     "status": true,
     "itunes_link": "https://itunes.apple.com/br/podcast/sudocast/id1229109698?mt=2",
     "website_link": "http://sudocast.com.br/",
-    "youtube_link": false,
+    "youtube_link": "",
     "rss_link": "http://sudocast.com.br/feed/",
-    "soundclound_link": false,
+    "soundclound_link": "",
     "twitter_at": "sudocast",
     "language": "pt_br"
   }
