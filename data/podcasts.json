@@ -1426,5 +1426,17 @@
     "twitter_at":"dataskeptic",
     "image":"https://static.libsyn.com/p/assets/2/9/3/8/2938570bb173ccbc/DataSkeptic-Podcast-1A.jpg",
     "language":"en"
+  },
+  {
+    "name": "Sudocast",
+    "description": "Um podcast de tecnologia ácido, engraçado que discute os principais temas em voga no mundo de Desenvolvimento de Software.",
+    "status": true,
+    "itunes_link": "https://itunes.apple.com/br/podcast/sudocast/id1229109698?mt=2",
+    "website_link": "http://sudocast.com.br/",
+    "youtube_link": "",
+    "rss_link": "http://sudocast.com.br/feed/",
+    "soundclound_link": "",
+    "twitter_at": "sudocast",
+    "language": "pt_br"
   }
 ]
