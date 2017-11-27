@@ -1438,5 +1438,18 @@
     "soundclound_link": "",
     "twitter_at": "sudocast",
     "language": "pt_br"
+  },
+  {
+    "name" : "Umblercast",
+    "description" : "Podcast sobre tecnologia, desenvolvimento web, vida de devs, marketing digital e tudo o que move a internet.",
+    "status" : true,
+    "itunes_link" : "https://itunes.apple.com/br/podcast/umblercast/id1199010134?mt=2",
+    "website_link" : "",
+    "youtube_link" : "",
+    "rss_link" : "",
+    "soundclound_link" : "https://soundcloud.com/umblercast",
+    "twitter_at": "umbler",
+    "image":"https://i1.sndcdn.com/avatars-000292171527-24bm1j-t500x500.jpg",
+    "language" : "pt_br"
   }
 ]
