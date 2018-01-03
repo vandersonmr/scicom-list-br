@@ -1477,5 +1477,18 @@
     "twitter_at": "umbler",
     "image":"https://i1.sndcdn.com/avatars-000292171527-24bm1j-t500x500.jpg",
     "language" : "pt_br"
+  },
+  {
+    "name" : "Syntax",
+    "description" : "A Tasty Treats Podcast for Web Developers.",
+    "status" : true,
+    "itunes_link" : "https://itunes.apple.com/ca/podcast/syntax-tasty-web-development-treats/id1253186678?mt=2",
+    "website_link" : "https://syntax.fm/",
+    "youtube_link" : "",
+    "rss_link" : "https://feed.syntax.fm/rss",
+    "soundclound_link" : "",
+    "twitter_at": "SyntaxFM",
+    "image":"https://syntax.fm/static/logo.png",
+    "language" : "en"
   }
 ]
