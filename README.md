@@ -25,6 +25,7 @@ Para adicionar um novo podcast, utilize o template de objeto json abaixo (remova
     "rss_link":"",
     "soundclound_link":"",
     "twitter_at":"", // username do twitter, sem '@'
+    "image":"", // image link
     "language":"pt_br" // en
   }
 ```
@@ -44,6 +45,7 @@ Lembre-se de verificar se o arquivo json final é válido.
     RSS dos episódios:
     Soundclound:
     Twitter:
+    Image:
     Idioma: (Português BR ou Inglês)
 ```
 Issues sobre qualquer outro assunto que não seja adição e atualização de lista, podem ser abertos sem FLAG no titulo.

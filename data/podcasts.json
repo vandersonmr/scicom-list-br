@@ -1490,5 +1490,18 @@
     "twitter_at": "SyntaxFM",
     "image":"https://syntax.fm/static/logo.png",
     "language" : "en"
+  },
+  {
+    "name":"PHP Roundtable",
+    "description":"The PHP podcast where everyone chimes in.",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/us/podcast/the-php-roundtable/id972248395",
+    "website_link":"https://www.phproundtable.com/",
+    "youtube_link":"https://youtube.com/c/PHPRoundtable",
+    "rss_link":"http://feeds.feedburner.com/PhpRoundtable",
+    "soundclound_link":"",
+    "twitter_at":"PHPRoundtable",
+    "image":"",
+    "language":"en"
   }
 ]
