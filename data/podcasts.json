@@ -1503,5 +1503,57 @@
     "twitter_at":"PHPRoundtable",
     "image":"",
     "language":"en"
+  },
+  {
+    "name":"Lovelace Cast",
+    "description":"Um podcast de tecnologia, diversidade e muito café, feito por @oieusouamiguell e @carolcode.",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/us/podcast/id1363343167",
+    "website_link":"",
+    "youtube_link":"",
+    "rss_link":"",
+    "soundclound_link":"https://soundcloud.com/user-363783809/lovelace-cast-1-dev-junior",
+    "twitter_at":"LovelacePodcast",
+    "image":"https://i1.sndcdn.com/avatars-000421188712-3cccvb-t500x500.jpg",
+    "language":"pt_br"
+  },
+  {
+    "name":"Papo Livre",
+    "description":"O Papo Livre é um podcast que tem como missão discutir Software Livre em todos os seus aspectos.",
+    "status":true,
+    "itunes_link":"",
+    "website_link":"https://papolivre.org",
+    "youtube_link":"",
+    "rss_link":"https://papolivre.org/feeds/mp3.xml",
+    "soundclound_link":"",
+    "twitter_at":"slpapolivre",
+    "image":"https://papolivre.org/images/papolivre.png",
+    "language":"pt_br"
+  },
+  {
+    "name":"HTTP 203",
+    "description":"Jake and Paul pick a hot topic in the world of web development and discuss the various aspects of it, meanwhile dropping in lifehacks, lessons and some rather honest truths.",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/us/podcast/http-203/id1042283903?mt=2",
+    "website_link":"https://developers.google.com/web/shows/http203/podcast/",
+    "youtube_link":"https://www.youtube.com/playlist?list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9",
+    "rss_link":"http://feeds.feedburner.com/Http203Podcast",
+    "soundclound_link":"",
+    "twitter_at":"",
+    "image":"https://developers.google.com/web/shows/http203/podcast/images/surma-and-jake-2.jpg",
+    "language":"en"
+  },
+  {
+    "name":"The freeCodeCamp Podcast",
+    "description":"The official podcast of the freeCodeCamp open source community. Learn to code with free online courses, programming projects, and interview preparation for developer jobs.",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749?mt=2",
+    "website_link":"https://freecodecamp.libsyn.com/",
+    "youtube_link":"",
+    "rss_link":"http://freecodecamp.libsyn.com/rss",
+    "soundclound_link":"",
+    "twitter_at":"",
+    "image":"https://assets.libsyn.com/secure/content/17773585/?height=80",
+    "language":"en"
   }
 ]
