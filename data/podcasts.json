@@ -1505,6 +1505,19 @@
     "language":"en"
   },
   {
+    "name":"10deploys",
+    "description":"Podcast sobre DevOps (origem, conceitos, tendências e influências).",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/br/podcast/na-estrada-devops-podcast/id1229389273",
+    "website_link":"https://www.10deploys.com/",
+    "youtube_link":"https://www.youtube.com/channel/UCREewYvRYYQSLlJYEq_ZXvw",
+    "rss_link":"",
+    "soundclound_link":"https://soundcloud.com/10deploys",
+    "twitter_at":"10deploys",
+    "image":"https://www.10deploys.com/assets/logo/medium.png",
+    "language":"pt_br"
+  },
+  {
     "name":"Lovelace Cast",
     "description":"Um podcast de tecnologia, diversidade e muito café, feito por @oieusouamiguell e @carolcode.",
     "status":true,
