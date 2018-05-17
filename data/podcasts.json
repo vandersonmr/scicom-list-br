@@ -1570,6 +1570,18 @@
     "language":"en"
   },
   {
+    "name":"QuebraDev",
+    "description":"Um podcast perifatécnico, assuntos de tecnologia voltado a periferia",
+    "status":true, // false = desativado, true = em atividade
+    "itunes_link":"",
+    "website_link":"http://quebradev.com.br/",
+    "youtube_link":"",
+    "rss_link":"",
+    "soundclound_link":"https://soundcloud.com/quebradev",
+    "twitter_at":"https://twitter.com/quebradev", // username do twitter, sem '@'
+    "image":"https://avatars2.githubusercontent.com/u/39226661", // image link
+    "language":"pt_br" // en
+  },{
     "name":"Merge Conflict",
     "description":"Merge Conflict is a weekly discussion with Frank and James on all things development, technology, & more.",
     "status":true,
