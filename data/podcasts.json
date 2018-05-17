@@ -1568,5 +1568,18 @@
     "twitter_at":"",
     "image":"https://assets.libsyn.com/secure/content/17773585/?height=80",
     "language":"en"
+  },
+  {
+    "name":"Merge Conflict",
+    "description":"Merge Conflict is a weekly discussion with Frank and James on all things development, technology, & more.",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/us/podcast/merge-conflict/id1133064277?mt=2&ls=1",
+    "website_link":"http://www.mergeconflict.fm/",
+    "youtube_link":"",
+    "rss_link":"http://www.mergeconflict.fm/rss",
+    "soundclound_link":"",
+    "twitter_at":"mergeconflictfm",
+    "image":"https://images.fireside.fm/podcasts/images/0/02d84890-e58d-43eb-ab4c-26bcc8524289/cover.jpg",
+    "language":"en"
   }
 ]
