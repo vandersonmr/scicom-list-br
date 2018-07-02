@@ -1584,15 +1584,15 @@
   },
   {
     "name":"QuebraDev",
-    "description":"Um podcast perifatécnico, assuntos de tecnologia voltado a periferia",
+    "description":"O QuebraDev é um podcast de origem periférica que surgiu de forma independente com a ideia de disseminar informação de uma maneira simples, interativa e inclusiva.",
     "status":true, 
-    "itunes_link":"",
+    "itunes_link":"https://itunes.apple.com/br/podcast/quebradev/id1385870497?mt=2",
     "website_link":"http://quebradev.com.br/",
-    "youtube_link":"",
-    "rss_link":"",
+    "youtube_link":"https://www.youtube.com/channel/UCcC9BomrjB8nM4WwGXxAkgg",
+    "rss_link":"http://feeds.soundcloud.com/users/soundcloud:users:449199045/sounds.rss",
     "soundclound_link":"https://soundcloud.com/quebradev",
     "twitter_at":"https://twitter.com/quebradev", 
-    "image":"https://avatars2.githubusercontent.com/u/39226661", 
+    "image":"http://i1.sndcdn.com/avatars-000444880368-xtf09d-original.jpg", 
     "language":"pt_br" 
   },{
     "name":"Merge Conflict",
