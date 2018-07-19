@@ -1632,5 +1632,18 @@
     "twitter_at":"podtagoficial",
     "image":"https://i.imgur.com/eLm2J6m.png",
     "language":"pt_br"
+  },
+  {
+    "name":"DevDrops",
+    "description":"O seu podcast sobre desenvolvimento de software",
+    "status":true,
+    "itunes_link":"https://itunes.apple.com/us/podcast/dev-drops/id1371013204",
+    "website_link":"https://anchor.fm/devdrops",
+    "youtube_link":"",
+    "rss_link":"https://anchor.fm/s/c428cc/podcast/rss",
+    "soundclound_link":"",
+    "twitter_at":"DropsDev",
+    "image":"https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded400/28555/28555-1523460141539-58cbfbe1d923f.jpg",
+    "language":"pt_br"
   }
 ]
