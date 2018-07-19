@@ -494,6 +494,19 @@
     "language" : "pt_br"
   },
   {
+    "name" : "Simple Programmer",
+    "description" : "The Simple Programmer Podcast is a short podcast that is a mix of career advice, philosophy and soft skills from successful author and software developer, John Sonmez. John is the founder of http://simpleprogrammer.com, one of the most popular software development blogs, and the author of the best-selling book, "Soft Skills: The Software Developer's Life Manual." (http://simpleprogrammer.com/softskills) Geared towards a programmer or software developer audience, but contains practical advice on: Career development Entrepreneurship Fitness Finance Productivity Personal development And more... That anyone can benefit from. Each episode is between 5 and 10 minutes long with at least 3 new episodes each week.",
+    "status" : true,
+    "itunes_link" : "https://itunes.apple.com/us/podcast/simple-programmer-podcast/id998357224",
+    "website_link" : "http://simpleprogrammer.libsyn.com/podcast",
+    "youtube_link" : "https://www.youtube.com/channel/UCFxdcuY-S6yjZGq_2cjilHg",
+    "rss_link" : "http://simpleprogrammer.libsyn.com/rss",
+    "soundclound_link" : "",
+    "twitter_at": "",
+    "image":"https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/a1/61/e5/a161e587-f1be-8d0b-2541-bc1d323dd93c/source/170x170bb.jpg",
+    "language" : "en"
+  },
+  {
     "name" : "Startapo",
     "description" : "<p>O podcast mais empreendedor do sul do mundo!</p><p>O Startapo discute temas, conceitos, cases, novidades, polêmicas e tudo o que envolve o universo do empreendedorismo, das startups e da tecnologia.</p><p>Uma realização do Capivalley, Ambiental Office, Movebla e Ekonomio, com apoio da Tumpats Áudio.</p><p>Novos programas são lançados quinzenalmente.",
     "status" : true,
