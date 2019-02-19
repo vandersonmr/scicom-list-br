@@ -1658,5 +1658,18 @@
 		"twitter_at": "DropsDev",
 		"image": "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded400/28555/28555-1523460141539-58cbfbe1d923f.jpg",
 		"language": "pt_br"
+	},
+	{
+		"name": "PODEntender",
+		"description": "Podcast de divulgação da ciência brasileira e muita fuleragem!",
+		"status": true,
+		"itunes_link": "https://itunes.apple.com/br/podcast/podentender/id1067682515",
+		"website_link": "https://podentender.com",
+		"youtube_link": "",
+		"rss_link": "https://podentender.com/feed",
+		"soundclound_link": "",
+		"twitter_at": "podentender",
+		"image": "https://podentender.com/wp-content/uploads/2016/06/cropped-FAVICON_Itunes-1-180x180.png",
+		"language": "pt_br"
 	}
 ]
