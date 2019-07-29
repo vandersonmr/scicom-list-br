@@ -1671,18 +1671,5 @@
 		"twitter_at": "podentender",
 		"image": "https://podentender.com/wp-content/uploads/2016/06/cropped-FAVICON_Itunes-1-180x180.png",
 		"language": "pt_br"
-	},
-	{
-    "name":"Braincast - B9",
-    "description":"Criatividade, inovação e entretenimento desde 2002",
-    "status":true,
-    "itunes_link":"",
-    "website_link":"https://www.b9.com.br/",
-    "youtube_link":"https://www.youtube.com/b9",
-    "rss_link":"https://feeds.simplecast.com/AZQtlzze",
-    "soundclound_link":"",
-    "twitter_at":"brains9", 
-    "image":"https://i.scdn.co/image/d8e5f584f97a29b496f3ac47a05bc3e8312eb368",
-    "language":"pt_br"
-  	}
+	}
 ]
