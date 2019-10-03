@@ -1675,27 +1675,40 @@
     {
     "name":"Braincast9",
     "description":"Criatividade, inovação e entretenimento desde 2002",
-    "status":true, 
+    "status":true,
     "itunes_link":"",
     "website_link":"https://www.b9.com.br/",
     "youtube_link":"https://www.youtube.com/b9",
     "rss_link":"https://feeds.simplecast.com/AZQtlzze",
     "soundclound_link":"",
-    "twitter_at":"brains9", 
+    "twitter_at":"brains9",
     "image":"https://i.scdn.co/image/d8e5f584f97a29b496f3ac47a05bc3e8312eb368",
     "language":"pt_br"
     },
     {
     "name":"Bit by bit",
     "description":"Gabriel Aleixo e Guilherme Nigri montam o quebra-cabeça do mundo da tecnologia e dos negócios toda semana, pedaço por pedaço. ",
-    "status":true, 
+    "status":true,
     "itunes_link":"",
     "website_link":"https://podcast.itsrio.org/",
     "youtube_link":"https://www.youtube.com/b9",
     "rss_link":"https://castbox.fm/channel/Bit-by-Bit-id2053617?country=br",
     "soundclound_link":"",
-    "twitter_at":"", 
+    "twitter_at":"",
     "image":"https://cdn-images-1.listennotes.com/podcasts/bit-by-bit-instituto-de-tecnologia-e-QKXU8VEJewB.1400x1400.jpg",
+    "language":"pt_br"
+    }
+    {
+    "name":"Segurança Legal",
+    "description":"O podcast Segurança Legal trata sobre temas que envolvem Direito da Tecnologia, Segurança da Informação, e tecnologia de forma geral. No ar desde 2012, busca fazer uma análise séria e isenta dos temas abordados levando em conta, sempre, estudos científicos e fontes relevantes.",
+    "status":true,
+    "itunes_link":"",
+    "website_link":"https://www.segurancalegal.com/",
+    "youtube_link":"",
+    "rss_link":"https://www.segurancalegal.com/feed/podcast/",
+    "soundclound_link":"",
+    "twitter_at":"segurancalegal",
+    "image":"https://www.segurancalegal.com/wp-content/uploads/2016/10/Seguran%C3%A7a-Legal-Logotipo.png",
     "language":"pt_br"
     }
 ]
