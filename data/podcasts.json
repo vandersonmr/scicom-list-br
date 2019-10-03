@@ -1684,5 +1684,18 @@
     "twitter_at":"brains9", 
     "image":"https://i.scdn.co/image/d8e5f584f97a29b496f3ac47a05bc3e8312eb368",
     "language":"pt_br"
+    },
+    {
+    "name":"Bit by bit",
+    "description":"Gabriel Aleixo e Guilherme Nigri montam o quebra-cabeça do mundo da tecnologia e dos negócios toda semana, pedaço por pedaço. ",
+    "status":true, 
+    "itunes_link":"",
+    "website_link":"https://podcast.itsrio.org/",
+    "youtube_link":"https://www.youtube.com/b9",
+    "rss_link":"https://castbox.fm/channel/Bit-by-Bit-id2053617?country=br",
+    "soundclound_link":"",
+    "twitter_at":"", 
+    "image":"https://cdn-images-1.listennotes.com/podcasts/bit-by-bit-instituto-de-tecnologia-e-QKXU8VEJewB.1400x1400.jpg",
+    "language":"pt_br"
     }
 ]
