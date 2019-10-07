@@ -1710,5 +1710,18 @@
     "twitter_at":"segurancalegal",
     "image":"https://www.segurancalegal.com/wp-content/uploads/2016/10/Seguran%C3%A7a-Legal-Logotipo.png",
     "language":"pt_br"
+    },
+    {
+      "name": "CppCast",
+      "description": "CppCast is the first podcast for C++ developers by C++ developers!",
+      "status": true,
+      "itunes_link": "https://itunes.apple.com/us/podcast/cppcast/id968703120",
+      "website_link": "https://cppcast.com/",
+      "youtube_link": "",
+      "rss_link": "https://cppcast.com/episode/index.xml",
+      "soundclound_link": "",
+      "twitter_at": "cppcast",
+      "image": "https://cppcast.com/img/logo-square.png",
+      "language": "en"
     }
 ]
