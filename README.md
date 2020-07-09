@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="http://ogilvieira.github.io/awesome-podcasts-br" target="_blank">
-    <img src="https://raw.githubusercontent.com/ogilvieira/awesome-podcasts-br/master/brand_files/brand_medium.png" alt="Awesome Podcasts BR">
+  <a href="https://vandersonmr.github.io/scicom-list-br/" target="_blank">
+    <img src="https://raw.githubusercontent.com/vandersonmr/scicom-list-br/master/brand_files/brand_medium.png" alt="SciCom List BR">
     </a>
     <br>
     Lista dos podcasts que todo desenvolvedor brasileiro deveria experimentar acompanhar. 
-    <a href="http://ogilvieira.github.io/awesome-podcasts-br" target="_blank">[VER SITE]</a>
+    <a href="https://vandersonmr.github.io/scicom-list-br/" target="_blank">[VER SITE]</a>
   </p>
 
 ---
@@ -12,19 +12,21 @@
 ## Como contribuir? :rocket:
 
 * **Fork & Pull Request:**
-Edite o arquivo: `data/podcasts.json` com a alteração.
-Para adicionar um novo podcast, utilize o template de objeto json abaixo (remova os comentários)
+Edite o arquivo: `data/scicom.json` com a alteração.
+Para adicionar um novo canal ou divulgador, utilize o template de objeto json abaixo (remova os comentários)
 ```javascript
   {
     "name":"",
     "description":"",
     "status":false, // false = desativado, true = em atividade
-    "itunes_link":"",
+    "spotify_link":"",
     "website_link":"",
     "youtube_link":"",
+    "instagram_link":"",
     "rss_link":"",
     "soundclound_link":"",
     "twitter_at":"", // username do twitter, sem '@'
+    "facebook_url":"", 
     "image":"", // image link
     "language":"pt_br" // en
   }
@@ -33,22 +35,9 @@ Lembre-se de verificar se o arquivo json final é válido.
 
 **Por Issue, usando flags no titulo:**
 
-* **[UPDATE]** -> Para sugestão de atualizações de dados e links dos podcasts
-* **[NEW]** -> Para sugestão de novo podcast a lista, utilize o template abaixo:
-```
-    Nome:
-    Descrição: 
-    status: (desativado, em atividade)
-    Itunes link:
-    Website:
-    Canal no Youtube:
-    RSS dos episódios:
-    Soundclound:
-    Twitter:
-    Image:
-    Idioma: (Português BR ou Inglês)
-```
+* **[UPDATE]** -> Para sugestão de atualizações de dados e links
+* **[NEW]** -> Para sugestão de novo canal ou divulgador na lista
+
 Issues sobre qualquer outro assunto que não seja adição e atualização de lista, podem ser abertos sem FLAG no titulo.
 
-
-[![Analytics](https://ga-beacon.appspot.com/UA-67879079-1/ogilvieira/dev-podcast-list-brazil)](https://github.com/ogilvieira/dev-podcast-list-brazil)
+[![Analytics](https://www.googletagmanager.com/gtag/js?id=UA-172214430-1)](https://vandersonmr.github.io/scicom-list-br/)
